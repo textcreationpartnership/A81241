@@ -1,0 +1,1377 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods rising, his enemies scattering; delivered in a sermon before the Honourable House of Commons, at their solemne fast, 26. Octob. 1642. But, through many occasions and hinderances, not printed till this 25. of May 1644. By Thomas Case, preacher, at Milk-street, London, and one of the Assembly of Divines.</title>
+            <author>Case, Thomas, 1598-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 157 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81241</idno>
+            <idno type="STC">Wing C830</idno>
+            <idno type="STC">Thomason E127_38</idno>
+            <idno type="STC">ESTC R4759</idno>
+            <idno type="EEBO-CITATION">99872717</idno>
+            <idno type="PROQUEST">99872717</idno>
+            <idno type="VID">156220</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81241)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156220)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E127[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods rising, his enemies scattering; delivered in a sermon before the Honourable House of Commons, at their solemne fast, 26. Octob. 1642. But, through many occasions and hinderances, not printed till this 25. of May 1644. By Thomas Case, preacher, at Milk-street, London, and one of the Assembly of Divines.</title>
+                  <author>Case, Thomas, 1598-1682.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[8], 51, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. R. for Luke Fawne, and are to be sold at his shop in Pauls Church-yard, at the signe of the Parrot,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Final two leaves contain list of fast and thanksgiving sermons preached before Parliament, 17 Nov. 1640-24 April 1644.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms LXVIII, 1-2 --  Sermons --  Early works to 1800.</term>
+               <term>Fast-day sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156220:1" rendition="simple:additions"/>
+            <p>Gods Riſing, HIS Enemies Scattering; Delivered in a SERMON Before the Honourable Houſe of Commons, At their Solemne Faſt, 26. <hi>Octob.</hi> 1642. But, through many occaſions and hinde<g ref="char:EOLhyphen"/>rances, not Printed till this 25. of <hi>May</hi> 1644. By <hi>Thomas Caſe,</hi> Preacher, at <hi>Milk-ſtreet, London,</hi> And one of the Aſſembly of Divines.</p>
+            <q>
+               <bibl>
+                  <hi>ISAIAH. 33.10.</hi>
+               </bibl>
+               <p>Now will I riſe, ſaith the Lord: Now will I be exalted, Now will I lift up my ſelf.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. R.</hi> for <hi>Luke Fawne,</hi> and are to be ſold at his Shop in <hi>Pauls Church-yard,</hi> at the ſigne of the <hi>Parrot.</hi> 1644.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:156220:2"/>
+            <opener>
+               <date>Die Mercurii. <hi>26.</hi> Octobris.</date>
+            </opener>
+            <p>IT is this day Ordered, by the Houſe of Commons, That Sir <hi>William Brereton,</hi> do returne thanks from this Houſe, to Mr. <hi>Thomas Caſe,</hi> for the great pains hee took in the Sermon he preached at the intreaty of the ſaid Houſe; at S<hi rend="sup">t</hi>. <hi>Margarets</hi> in the City of <hi>Weſtminſter,</hi> this preſent day of publike Humiliation; And that hee bee deſired to Print his Sermon. And it is Orde<g ref="char:EOLhyphen"/>red, that no man ſhall preſume to Print it, but hee who ſhall be authorized under the ſaid Mr. <hi>Tho: Caſe,</hi> his hand-writing.</p>
+            <closer>
+               <signed>H. Elſyng, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="order_to_print">
+            <p>
+               <hi>I Authorize</hi> Luke Fawne, <hi>to Print my Sermon.</hi>
+            </p>
+            <closer>
+               <signed>Tho: Caſe.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:156220:2"/>
+            <head>TO THE HONORABLE and truly <hi>Noble,</hi> his worthy Friend, Sir <hi>William Brereton,</hi> Barronet Commander <hi>in Chief, of the Parlia<g ref="char:EOLhyphen"/>ments Forces in Cheſhire.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was by <hi>your hand</hi> I received the commands of that <hi>Honourable Houſe,</hi> whereof <hi>your ſelfe</hi> are a <hi>Member,</hi> to <hi>Preach</hi> and <hi>Print</hi> theſe poor labours, long ſince; and therfore I hope I am ſo much the more capable of your pardon, if by the <hi>ſame hand,</hi> I crave the adva<g ref="char:cmbAbbrStroke">̄</g>tage to preſent the<g ref="char:cmbAbbrStroke">̄</g> to their <hi>favourable acceptatio:</hi> together with my humble <hi>Apologie,</hi> that I come ſo extreamely late with the tender of this ſervice: occaſi<g ref="char:EOLhyphen"/>o'nd partly by the conſcienciouſnes of mine own weaknes; and partly by the crowdes of intervening diſtractions; through which at length I have forced my way, that I might no longer lie under the ſuſpition of neglect to their Commands. To this, divine pro<g ref="char:EOLhyphen"/>vidence hath added a <hi>new encouragement</hi> and
+<pb facs="tcp:156220:3"/>
+               <hi>and advantage,</hi> and that in reference to <hi>your ſelfe;</hi> while in the interim of this ne<g ref="char:EOLhyphen"/>ceſſitated ſuſpenſion, ſome of theſe notions (lying by me) ſerved to celebrate
+<note n="*" place="margin">In a day of thankſ-giving kept at <hi>Lau<g ref="char:EOLhyphen"/>rence Church London,</hi> for that purpoſe. <hi>Feb.</hi> 5. 1643.</note> that <hi>great Victory</hi> and <hi>Deliverance</hi> (amongſt ma<g ref="char:EOLhyphen"/>ny others) which <hi>God</hi> gave into the hands of your <hi>fidelity</hi> and <hi>Zeal,</hi> againſt that for<g ref="char:EOLhyphen"/>midable <hi>Armie</hi> of <hi>Rebels,</hi> at <hi>Namptwitch</hi> in <hi>Cheſhire:</hi> ſo that now at length they come forth not as the <hi>Work</hi> only, but as the bleſſed <hi>returne</hi> and <hi>fruit</hi> of a <hi>day</hi> of <hi>prayer;</hi> then the <hi>travell,</hi> now the <hi>birth</hi> (or celebration) of a <hi>great,</hi> yea of <hi>many</hi> great, <hi>Deliverances,</hi> and <hi>Victories.</hi> So that concerning this <hi>Text</hi> and <hi>Sbject</hi> you may ſing with the Church, Pſal. 48. <hi>As we have heard, ſo have we ſeen:</hi> What you <hi>heard</hi> from this <hi>Text,</hi> and <hi>Sermon</hi> while you were <hi>here,</hi> that <hi>you have ſeen</hi> ſince your undertaking of this eminent <hi>Service</hi> for <hi>God</hi> and the <hi>Kingdome; Namely,</hi> that <hi>Gods Riſing time is his Enemies Scattering time, his haters ſtying time;</hi> while in 22. <hi>Con<g ref="char:EOLhyphen"/>flicts</hi> with the Enemie, you have bin Hono<g ref="char:EOLhyphen"/>red with 18. <hi>Victories:</hi> all which, notwith<g ref="char:EOLhyphen"/>ſtanding, that <hi>you got not by your own Sword, neither did your own arm ſave you,
+<note place="margin">Pſal. 44.2.3.</note> but Gods right hand, and Gods arme, and the light of his
+<pb facs="tcp:156220:3"/>countenance, becauſe he had a favour to you,</hi> and to thoſe poor bleeding Counties; this may a bundantly evidence, that in all theſe bleſ<g ref="char:EOLhyphen"/>ſed <hi>ſucceſſes,</hi> you have had no other <hi>Artilery,</hi> but what you have <hi>wreſted</hi> by main ſtrength of <hi>that Arme,</hi> out of the <hi>hands</hi> of thoſe <hi>proud daring Rebels;</hi> and ſo <hi>David-like</hi> have you cut off <hi>Goliah's head</hi> with his <hi>own Sword:</hi> and the ſurviving Enemie may complain
+<q>
+                  <hi>Heu patior telis vulnera factameis.</hi>
+               </q> Certainly Sir, among all thoſe <hi>Worthies</hi> who have been engaged in theſe <hi>Battels</hi> of the <hi>Lord of Hoaſts</hi> now in theſe latter dayes, there is none that haue <hi>ſeen</hi> more of God, then your ſelf have done; and without flat<g ref="char:EOLhyphen"/>terie I ſpeake it, I verily beleeve <hi>none</hi> have <hi>obſerved God</hi> more in the paſſages of his providence then <hi>your ſelfe.</hi> This, as it hath been your <hi>wiſdome,</hi> and a <hi>Perſpective glaſſe</hi> to diſcover the love of God to you, for <hi>whoſo is wiſe,
+<note place="margin">Pſal. 107. laſt.</note> and will obſerve theſe things even they ſhall underſtand the loving kinde<g ref="char:EOLhyphen"/>neſſe of the Lord,</hi> So Sir, let it bee both an <hi>encouragement,</hi> and <hi>engagement,</hi> to carry you on in this Service, with invincible courage, and reſolution.</p>
+            <p>It may be, <hi>after all the hazzards you have
+<pb facs="tcp:156220:4"/>run,</hi> and the exhauſting of ſo <hi>fair</hi> a <hi>lively<g ref="char:EOLhyphen"/>hood,</hi> as Providence had bequeathed you, in your Countrey and Kingdomes ſer<g ref="char:EOLhyphen"/>vice; and a long attendance here, you ſhall not return ſo <hi>accompliſht,</hi> as might anſwer your <hi>merits,</hi> or the <hi>juſt expectation</hi> of thoſe <hi>gallant ſpirits</hi> which have accompanied, and ſerved you in this Deſigne.</p>
+            <p>But let it not <hi>diſhearten you,</hi> you return not without the ampleſt expreſſion of the <hi>Parliaments affection,</hi> and <hi>Cities eſteem,</hi> that theſe draining times, can poſſibly reach to: And let me tell you this; your <hi>ſecond Expe<g ref="char:EOLhyphen"/>dition,</hi> cannot be ſo <hi>unballa'ſt</hi> of ſecond cau<g ref="char:EOLhyphen"/>ſes, as your <hi>firſt</hi> was; which yet you may Chriſten,
+<note place="margin">1 Sam. 17.12.</note> as <hi>Samuel</hi> did his Victory over the Philiſtines; EBEN-EZER, <hi>hitherto hath God helped.</hi>
+            </p>
+            <p>I muſt confeſſe Sir, your adventure ſeems ſomewhat like that, of that
+<note n="*" place="margin">Regulus.</note> 
+               <hi>gallant Roman,</hi> who taken <hi>priſoner</hi> by the <hi>Athenians,</hi> and truſted upon his <hi>honour</hi> to go to <hi>Rome,</hi> and procure <hi>a peace,</hi> between the <hi>Romanes</hi> and <hi>them,</hi> or elſe to <hi>return</hi> to his <hi>impriſonment;</hi> upon the failing of that deſigne, ſcorn'd <hi>life</hi> and <hi>liberty,</hi> in reſpect of his <hi>honour,</hi> reſol<g ref="char:EOLhyphen"/>ving to return to <hi>death</hi> and <hi>torture</hi> at <hi>Athens,</hi>
+               <pb facs="tcp:156220:4"/>rather then to <hi>out-live</hi> his <hi>honour</hi> at <hi>Rome.</hi>
+            </p>
+            <p>But Sir, the more your <hi>hazzard</hi> is, the greater is your <hi>honour.</hi> When <hi>poverty, and obſcurity,</hi> expoſeth it ſelf to a doubtfull danger, for <hi>publike ſafety,</hi> it is no great mat<g ref="char:EOLhyphen"/>ter; <hi>miſcariage</hi> it ſelf, to a deſperate condi<g ref="char:EOLhyphen"/>tion is the <hi>cure</hi> of it's miſery; what is it for <hi>lepers,</hi> hunger-ſtarved <hi>lepers,</hi> to adventure on the enemies? <hi>If they kill us,
+<note place="margin">2 King. 7.4.</note> wee ſhall but die, if we ſit here, we ſhall die, if we enter in<g ref="char:EOLhyphen"/>to the City, we ſhall die by famine;</hi> This is not <hi>reſolution</hi> but <hi>neceſſity:</hi> but for one <hi>without</hi> the <hi>verge</hi> of <hi>danger,</hi> to intereſt and hazzard himſelf, in a <hi>publike reſeue</hi> of Religion, and Countrey, is a character of <hi>true Fortitude.</hi>
+            </p>
+            <p>Me thinks, I hear thoſe <hi>bleeding Counties,</hi> crie unto you,
+<note place="margin">Joſh. 10.6.</note> as once the <hi>Gibeonites</hi> to <hi>Jo<g ref="char:EOLhyphen"/>ſhua; Slack not thy hand, come down quickly and ſave us:</hi> and I know there is a <hi>Joſhuah<g ref="char:EOLhyphen"/>like</hi> ſpirit, both of <hi>compaſſion,</hi> and <hi>valour</hi> beating in your veines.</p>
+            <p>It was a <hi>life-breathing Motto,</hi> which the <hi>Iſraelites</hi> gave to <hi>God</hi> in their <hi>Warrs.</hi>
+            </p>
+            <q>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </q>
+            <p>"<hi>Who among the gods is like unto thee,
+<note place="margin">Pſal. 86.8.</note> Je<g ref="char:EOLhyphen"/>hovah!</hi> While their <hi>Souldiery,</hi> before their joyning battell with the enemie, encoura<g ref="char:EOLhyphen"/>ged
+<pb facs="tcp:156220:5"/>one another thus, <q rend="inline">
+                  <hi>Truſt in him, who is the Saviour of Iſrael in affliction:</hi> And this day thou fighteſt,
+<note place="margin">Judg. 6.14.</note> 
+                  <hi>pro confeſſione unita<g ref="char:EOLhyphen"/>tis divinae; Therefore thou mayeſt carry thy life in thy hand ſecurely:</hi>
+               </q> Words worthy to be engraven upon the palms of the hands, of all thoſe, whither <hi>Commanders,</hi> or <hi>Soul<g ref="char:EOLhyphen"/>diers,</hi> that fight the Lords battells.</p>
+            <p>But what ſhall I need to multiply words? Sir, you have expreſt too much <hi>faith</hi> and <hi>re<g ref="char:EOLhyphen"/>ſolution,</hi> to bee <hi>out-dared</hi> by any <hi>difficulty</hi> in the cauſe of <hi>God,</hi> and your <hi>Countrey.</hi>
+            </p>
+            <p>
+               <hi>Go,</hi> therefore, <hi>in this thy might, thou migh<g ref="char:EOLhyphen"/>ty man; have not I ſent thee,</hi> ſaith God? And let the <hi>ſword of the Lord, and of Brereton,</hi> be as dreadfull, as once <hi>the ſword of the Lord, and of Gideon,</hi> that you may <hi>ſmite your ene<g ref="char:EOLhyphen"/>mies as one man.</hi>
+            </p>
+            <p>Sir, while you are fighting abroad, this ſhall be the prayer of him, (among thou<g ref="char:EOLhyphen"/>ſands) at home, who humbly craves leave to let the World know he is,</p>
+            <closer>
+               <signed>
+                  <hi>Your humble ſervant, in all Goſpel-Offices:</hi> Tho: Caſe.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:156220:5"/>
+            <head>Gods Riſing, HIS Enemies Scattering.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 68.1, 2.</hi>
+                  </bibl>
+                  <p>Let God ariſe, and let his enemies be ſcattered, let them that hate him, flee before him.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Pſalm is a Song of triumph, <hi>compoſed</hi> by <hi>David;</hi> that is cleer from the Title, <hi>To the chief Muſitian,</hi> or the Maſter of Muſick, <hi>a Pſalm, or Song of David,</hi> compoſed and ſung upon their day of <hi>Thanksgiving,</hi> for the bring<g ref="char:EOLhyphen"/>ing home of the <hi>Ark,</hi> (that Sacrament of Gods preſence) from the houſe of <hi>Obcd-Edom,</hi> and the ſetling, and fixing of it in its own place, in the midſt of the <hi>Tabernacle</hi> which <hi>David</hi> had pitched for it; of which you may read; 2 <hi>Sam.</hi> 6.17, this is the moſt probable conjecture of the beſt In<g ref="char:EOLhyphen"/>terpreters.</p>
+            <p>In this Pſalm, as he doth <hi>Hiſtorically</hi> celebrate the many fa<g ref="char:EOLhyphen"/>mous <hi>victories</hi> and <hi>ſpoils,</hi> wherewith God had <hi>gratiouſly</hi> and even <hi>miraculouſly</hi> crowned his Government (and ſo the Ar<g ref="char:EOLhyphen"/>gument
+<pb n="2" facs="tcp:156220:6"/>of this <hi>Pſalm</hi> is the ſame with the 60. <hi>Pſalm</hi>) So alſo <hi>Prophetically</hi> he doth celebrate the happineſſe and glory of the <hi>Evangelicall Church,</hi> under the <hi>government</hi> of the <hi>Lord Jeſus Chriſt,</hi> riſing from the dead, ſpoyling the Kingdom of ſin and Satan, and leading captivity captive; for upon that triumph doth the Apoſtle expound ſome paſſages of this <hi>Pſalm,</hi> in <hi>Epheſ.</hi> 4.8.</p>
+            <p>The <hi>Pſalmiſt</hi> begins his Song with the words which <hi>Moſes</hi> uſed,
+<note place="margin">Verſ. 35.</note> when the Ark ſet forward, <hi>Numb,</hi> 10.35, 36. <hi>And it came to paſſe when the Ark ſet forward, that Moſes ſaid; Riſe up, Lord, and let thine enemies be ſcatter'd, and let them that hate thee,
+<note place="margin">Verſ. 36,</note> flee before thee. And when it reſted, he ſaid, Return, O Lord, unto the many thouſands of Iſrael:</hi> Which words <hi>Moſes</hi> leaving as a <hi>modell</hi> of <hi>prayer,</hi> and a <hi>prop</hi> of <hi>faith</hi> to all ſucceeding gene<g ref="char:EOLhyphen"/>rations, were moſt proper for <hi>Davids</hi> purpoſe, in <hi>bringing home</hi> the ſame <hi>Ark</hi> into its reſting place.</p>
+            <p>And he uſeth theſe words by way of <hi>prayer</hi> and <hi>triumph, pe<g ref="char:EOLhyphen"/>tition</hi> and <hi>thanksgiving;</hi>
+            </p>
+            <p>Wherein is contained ſuch choiſe proviſion, had I skill to diſh it out unto you, as though it be a <hi>faſting day,</hi> would preſent you with a <hi>ſpirituall feaſt</hi> for ſoul repaſt.</p>
+            <p>I muſt not ſtand to Analyſe the <hi>Pſalm,</hi> that which enter<g ref="char:EOLhyphen"/>tains us at the very threſhold, being of ſuch fulneſſe, and variety, as the ſtraits into which the diſtractions of this day doth caſt us, will hardly ſuffer to take a taſte of every particular.</p>
+            <p>There offer themſelves to our view, <label type="milestone">
+                  <seg type="milestoneunit">Doctrins. </seg>
+               </label> theſe ſix <hi>Obſervations</hi> from the words.</p>
+            <p>Firſt, <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>The Church of God ever had, and will have enemies and haters:</hi> For againſt theſe, doth the <hi>Pſalmiſt arm</hi> himſelf and the Church, with this <hi>Prayer.</hi>
+            </p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>The Churches enemies are Gods enemies; they that hate the Church, hate God. Thine</hi> enemies, them that hate <hi>thee.</hi>
+            </p>
+            <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>God ſometime ſeems to ſleep, or lie ſtill, and let theſe enemies and haters do what they will for a ſeaſon:</hi> this alſo is im<g ref="char:EOLhyphen"/>plied; He to whom we ſay, <hi>Ariſe,</hi> is either <hi>aſleep,</hi> or <hi>lies ſtill.</hi>
+            </p>
+            <p>Fourthly, <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+               <hi>There is a time when God will ariſe.</hi>
+            </p>
+            <p>Fifthly, <milestone type="tcpmilestone" unit="unspecified" n="5"/> 
+               <hi>Gods riſing time, is the enemies ſcattering time, his haters flying time.</hi>
+            </p>
+            <pb n="3" facs="tcp:156220:6"/>
+            <p>Sixthly, <hi>It is the duty of Gods people, to pray him up, <milestone type="tcpmilestone" unit="unspecified" n="6"/> when he ſeems to bee down, and to exalt him in their praiſes when hee doth ariſe to their reſcue and redemption;</hi> For theſe words are both a <hi>prayer</hi> and a <hi>triumph,</hi> as they are uſed both by <hi>Moſes</hi> and <hi>David.</hi>
+            </p>
+            <p>You ſee, I have prepared more work, then I ſhall bee able to finiſh, in the time allotted me for this ſervice.</p>
+            <p>Give me leave therefore to preface but a little upon the three former; And I will ſit down upon the three latter in the main body of my diſcourſe.</p>
+            <q>
+               <hi>The Church of God hath Enemies, Haters.</hi>
+            </q>
+            <p>When ſhe was in her <hi>Infancy,</hi> and in ſo narrow a compaſſe, <label type="milestone">
+                  <seg type="milestoneunit">Doctrin. </seg>1</label> that the <hi>two firſt Parents</hi> of the world, had yet but <hi>two ſonnes,</hi> (of whom the Scripture takes notice) <hi>one</hi> was the <hi>Church,</hi> the <hi>other</hi> an <hi>enemy;</hi> the <hi>one</hi> a <hi>Saint,</hi> the <hi>other</hi> a <hi>malignant;</hi>
+               <note place="margin">1 Joh. 3.13:</note> an <hi>ha<g ref="char:EOLhyphen"/>ter,</hi> that hated him even to <hi>fratricide.</hi>
+            </p>
+            <p>As the <hi>Church</hi> multiplied, her enemies multiplied alſo; yea ſo over-multiplied her, that in the 74. <hi>Pſalm, ver.</hi> 19. it is but <hi>one</hi> poor <hi>Turtle-dove,</hi> againſt a <hi>multitude</hi> of <hi>wicked;</hi> enemies, haters.</p>
+            <p>Lo, yonder you may ſee <hi>heapes</hi> of them gathered together, <hi>Pſal.</hi> 83.6, 7, 8. <hi>The Tabernacles of Edom, and Iſhmaelites, of Moab, and the Hagarens, Gebal, and Ammon, and Amaleck, the Philiſtines, with the Inhabitants of Tyre, Aſſur, and the children of Lot.</hi> Evill Beaſts enough, one would think, to have devou<g ref="char:EOLhyphen"/>red one poor Turtle-dove.</p>
+            <p>In our Saviours time they were grown into a <hi>world-full</hi> of enemies, <hi>Joh.</hi> 15.19. <hi>The world hateth you.</hi>
+            </p>
+            <p>If any ſhould demand with <hi>Pilate, Why, <label type="milestone">
+                     <seg type="milestoneunit">Ground. </seg>
+                  </label> what evill hath</hi> the <hi>Church done?</hi> She may anſwer with <hi>David;
+<note place="margin">Pſal. 69.4,</note> They hate me without a cauſe,</hi> It is a <hi>cauſeleſſe</hi> enmity and hatred, the Lord knows.</p>
+            <p>But if you will have a cauſe, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>
+               </label> Hee ſhall give it you that beſt knew what it was, <hi>Chriſt</hi> himſelf:
+<note place="margin">Joh. 15.19.</note> 
+               <hi>Becauſe you are not of the world, but I have choſen you out of the world, therefore the world hateth you.</hi> There is a ſecret malignancie in the men of the world (as there was in <hi>Cain</hi>) to ſee others <hi>choſen,</hi> and <hi>beloved of Chriſt,</hi> and themſelves rejected. <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>2</label> 
+            </p>
+            <p>If you would dig to the root of this venemous hatefull
+<pb n="4" facs="tcp:156220:7"/>weed,
+<note place="margin">Gal. 3.16.</note> you ſhall finde it to bee the ſame <hi>ſeed,</hi> which the old Serpent hath ſpawned into the children of diſobedience: The true Church and the <hi>Malignant,</hi> are begotten and born of a contrary <hi>ſeed,</hi> the <hi>ſeed</hi> of the <hi>Serpent</hi> who is the Devill; and <hi>the Seed of the Woman,</hi> which is Chriſt; and theſe hate one another with the pureſt hatred, becauſe their <hi>principles</hi> be moſt <hi>contrary</hi> and moſt <hi>active:</hi> The one of <hi>God,</hi> who is <hi>ſumme activus</hi> as the Schooles ſpeak, <hi>a pure ſimple act,</hi> moſt vigorous and operative; and the other of <hi>Satan</hi> who in the higheſt ſphere of created be<g ref="char:EOLhyphen"/>ings, is a moſt <hi>ſubtile</hi> and <hi>active Spirit.</hi>
+            </p>
+            <p>The principles of hatred in all other creatures, are of a far lower and duller mould and motion; and their Antipathy and hatred is nothing ſo immortally mortall; theſe hating, and ha<g ref="char:EOLhyphen"/>ted of one another, not onely <hi>to death,</hi> but <hi>in death,</hi> and <hi>beyond death</hi> to all Eternity.</p>
+            <div type="part">
+               <head>
+                  <g ref="char:V">Ʋ</g>ſe.</head>
+               <p>I would commend from this obeſervation, <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe. </seg>
+                  </label> this one <hi>Cavtion. There is no time then for Gods people to be ſecure,</hi> ſince they live among Enemies and Haters: and the neerer they meet in their <hi>Relations,</hi> the more is the enmity and hatred intended.</p>
+               <p>So you ſhall obſerve there is no ſuch enmity between <hi>man</hi> and the <hi>Bruit Creatures,</hi> as there is betweene man and man; Among men, there is no ſuch enmity and hatred between <hi>Heathens</hi> and <hi>Chriſtians,</hi> as there is betweene <hi>Chriſtians</hi> and <hi>Chriſtians;</hi> among Chriſtians, no ſuch antipathy between <hi>Papiſts</hi> and <hi>Proteſtants:</hi> as there is between <hi>Proteſtants</hi> and <hi>Proteſtants:</hi> At this day no hatred ſo <hi>mortall,</hi> no Enemies, ſo <hi>Irreconcileable</hi> as the <hi>Malignant Proteſtants,</hi> and thoſe whom they ſcorne by that New-name, <hi>Rowndhead,</hi> that poor deſpi<g ref="char:EOLhyphen"/>ſed partie that ſtand up for Reformation; The <hi>Proteſtant indeed.</hi>
+               </p>
+               <p>The reaſon is becauſe the neerer men meet in <hi>aliquo tertio,</hi> in their relations, or Profeſſion, and yet differ, as in the <hi>Principles</hi> of their <hi>Natures</hi> (as before) ſo in the <hi>Nature</hi> of their <hi>Principles</hi> or <hi>opinions,</hi> the more reproach and <hi>odium</hi> they conceive, that dif<g ref="char:EOLhyphen"/>rence reflects one upon another: and ſo the more impatient and implacable are they rendered: Contraries the neerer they come
+<pb n="5" facs="tcp:156220:7"/>together, the more eminent is their <hi>difference,</hi> and the greater their <hi>conflict</hi> and <hi>contention.</hi>
+               </p>
+               <p>This puts the people of God into a dangerous poſture, the malignant partie alwaies having made the <hi>major part</hi> in the <hi>World,</hi> in the <hi>Chriſtian World,</hi> and yet it is wonderfull to con<g ref="char:EOLhyphen"/>ſider, how hardly Gods people are brought to entertain reall and ſeaſonable thoughts of the worlds deſperate and devilliſh inten<g ref="char:EOLhyphen"/>tions towards them. Is it not with them as it was once with <hi>Gedaliah,</hi> when Intelligenct by <hi>Jonathan the ſon of Kareah</hi> of a <hi>bloody Maſſacre</hi> contrived againſt him, and the poor Jewes under his command; he would not beleeve it, but for his paines gives him the <hi>lye.</hi>
+               </p>
+               <q>Thou ſpeakeſt falſly of Iſhmael.
+<note place="margin">Ier. 40.13.16.</note>
+               </q>
+               <p>Were it not a ſtrange folly in a people, to let <hi>Lions,</hi> and <hi>Bears,</hi> and <hi>Wolves,</hi> and <hi>Leopards,</hi> run up and down in the ſtreets, and high-waies, <hi>unchain'd,</hi> and <hi>unmuzled,</hi> and ſay,
+<note place="margin">Ier. 5.6.</note> 
+                  <hi>they will do no harm?</hi> And hath not God branded <hi>Malignant Spirits</hi> with theſe names in Scripture? What a ſtrange ſe<g ref="char:EOLhyphen"/>curity hath ſeized upon us? Surely the <hi>children of the world are wiſer in their generations then the children of light;</hi> would they have dealt ſo beleevingly with us, had they had us at that ad<g ref="char:EOLhyphen"/>vantage that we have had them? Did they when they had it? <hi>Innocence</hi> you know is <hi>credulous,</hi> but <hi>credulity</hi> is not al<g ref="char:EOLhyphen"/>waies innocent; It is a <hi>noxious weed</hi> though it grow up<g ref="char:EOLhyphen"/>on a <hi>good ſoil:</hi> I wiſh it may not be ſuffered to grow too ranke.</p>
+               <p>We do ſomewhat, but it is not till our Enemies force us to it, when we muſt either <hi>kill,</hi> or be <hi>killed.</hi>
+               </p>
+               <p>We do ſomewhat, but it is <hi>by halfes</hi> and <hi>peece-meals,</hi> what they do they do in earneſt; we do as if we were in jeſt; Do we beſtir our ſelves to <hi>ſave,</hi> as the Enemies do to deſtroy? <hi>It is well we have a God,</hi> or elſe our <hi>ſecurity</hi> and <hi>ſlenderneſſe of ſpirit</hi> would certainly undoe us; and had undone us long before this time. <hi>Be inſtructed Oh England leſt Gods Soul depart from thee;</hi>
+                  <note place="margin">Ier. 6.8.</note> for if while we <hi>truſt</hi> and <hi>ſpare</hi> them, we be found to <hi>tempt</hi> and wea<g ref="char:EOLhyphen"/>ry God, we way expect to hear that ſad Newes from heaven that <hi>Ahab</hi> did:</p>
+               <pb n="6" facs="tcp:156220:8"/>
+               <p>
+                  <hi>Becauſe you have let go out of your hands a people whom I have appointed to destruction;
+<note place="margin">1 Kings 20.24.</note> Your Kingdome ſhall go for their Kingdome, and your lives for their lives:</hi> Now the Lord awa<g ref="char:EOLhyphen"/>ken our Spirits to a timely prevention of ſuch a doom, and divert it from us.</p>
+            </div>
+            <div type="part">
+               <head>I come to the ſecond <hi>Doctrine.</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>2</label> 
+               </head>
+               <p>
+                  <hi>The Churches Enemies are Gods Enemies, they that hate Gods people, hate God himſelf.</hi>
+               </p>
+               <p>There is hardly any language more frequent in Scripture, <hi>Pſal.</hi>
+                  <note place="margin">Pſal. 21.8.</note> 21.8. thine hand ſhall finde out all <hi>thine Enemies,</hi> thy right hand ſhall finde out thoſe that <hi>hate thee.</hi>
+               </p>
+               <p>Pſal. 83.2. <hi>Loe thine Enemies make a tumult, and thoſe that hate thee have lift up the head;</hi> Why, wherein did they ſhew themſelves the Enemies and haters of God? It followes, ver. the third: <hi>They have taken crafty counſell againſt thy people, &amp; conſult<g ref="char:EOLhyphen"/>ed againſt thy Hidden ones, and ſaid, Come let us cut them off from being a Nation, &amp;c.</hi> Their Malignant Counſels againſt <hi>Gods people,</hi> was nothing elſe but a <hi>paraphraſe</hi> of their malice againſt <hi>God himſelf,</hi> for ſo yet it followes more expreſſely, verſ. the fifth: <hi>They conſult together with one conſent, they are confederate againſt thee: thee</hi> and <hi>thine, them</hi> and <hi>thee</hi> go hand in hand.</p>
+               <p>
+                  <hi>The <hi>Grounds</hi> of this may be, <label type="milestone">
+                        <seg type="milestoneunit">Grounds. </seg>
+                     </label> 
+                  </hi>
+               </p>
+               <p>Firſt, <milestone type="tcpmilestone" unit="unspecified" n="1"/> the <hi>mutuall intereſt that God and his people have one in another, Maſter,</hi> and <hi>Scrvant, Father</hi> and <hi>Children, Husband</hi> and <hi>Wife, Head</hi> and <hi>Members,</hi> theſe are the uſuall titles by which this <hi>mutual relation</hi> is expreſt in Scripture, (and among all the members of the body the tendereſt is choſen to expreſſe the intereſt that Gods people have in his compaſſion and love, The <hi>Eye,</hi> Zech. 2.8. <hi>He that toucheth you, toucheth the apple of mine eye:</hi> The leaſt violence will offend that member; what is done to the <hi>Eye,</hi> preſently is at the <hi>Heart:</hi> wicked men cannot hate gods people, but God muſt needs be very ſenſible of it; they canot be Enemies to them, but they muſt be Enemies to God himſelf: Eſpecially ſince they are found by our Saviour not onely to hate them <hi>in theſe relations,</hi> but <hi>for theſe relations,</hi> not onely <hi>being</hi> the <hi>Servants</hi> and <hi>Children</hi> and <hi>Spouſe,</hi> and <hi>Members</hi>
+                  <pb n="7" facs="tcp:156220:8"/>of Jeſus Chriſt, but <hi>becauſe they are ſo; becauſe ye are not of this world, but I have choſen you out of the world,
+<note place="margin">Iohn 15.19.</note> therefore the world hateth you: Becauſe,</hi> that is crime enough, that they <hi>belong to Jeſus Chriſt.</hi>
+               </p>
+               <p>Secondly, <hi>The Quarrell:</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> wherein God is as deeply inte<g ref="char:EOLhyphen"/>reſted as his people: <hi>Thou haſt given a banner to them that fear thee, that it may be diſplayed becauſe of the Truth,</hi> Pſal. 60.4.</p>
+               <p>A <hi>Banner</hi> is the Embleme of <hi>Victory, Victorie</hi> implies <hi>Battell,</hi> but what was the <hi>Quarrell?</hi> The <hi>truth;</hi> The truth of <hi>Do<g ref="char:EOLhyphen"/>ctrine;</hi> The truth of <hi>Religion;</hi> The truth of <hi>Diſcipline,</hi> The truth of <hi>Government,</hi> in all theſe God is as much or more concerned then his people; <hi>Truth</hi> is, the <hi>Truth of God,</hi> and God is <hi>the God of Truth;</hi> and thefore they that are Enemies to Gods people <hi>for the truthes ſake,</hi> are Enemies to God himſelf; they that hate them for the <hi>truths ſake</hi> hate God alſo whoſe truth it is, look into all the <hi>Battells</hi> of the Church ſince Chriſts time to this day, and you ſhall finde the <hi>Quarrell</hi> to have been ſome-what about <hi>Chriſt</hi> himſelf: While Chriſt was yet upon the Earth, the Quarrell was about the <hi>Birth of Chriſt:</hi> in the next ages the Quarrell was about the <hi>Perſon of Chriſt,</hi> in the ſucceeding Age, concerning <hi>the Natures of Chriſt,</hi> then about the <hi>Offices of Chriſt,</hi> And now in our dayes about the <hi>life</hi> and <hi>Government</hi> of Chriſt.</p>
+               <p>In a word, the firſt battell that ever was fought, was in hea<g ref="char:EOLhyphen"/>ven, Between <hi>Michael</hi> and his <hi>Angels,</hi> and the <hi>Dragon</hi> and his <hi>Angels.</hi> And look what the Quarrell was there, the ſame you ſhall finde it ever ſince; though fought in a <hi>lower ground,</hi> and that is, <hi>Who ſhall be God?</hi>
+               </p>
+               <p>I will be God ſaid the <hi>proud Angel,</hi> my throne ſhall be above the Throne of God; And ſo ſaith Antichriſt unto this day, <hi>I will be God,</hi> tis his very Character, in 2 Theſ. 2.4. <hi>He oppoſeth and ex<g ref="char:EOLhyphen"/>alteth himſelf above all that is called God, or that is worſhipped, ſo that he as God ſitteth in the Temple of God, ſhewing himſelf that he is God.</hi> And this is the language of every wicked man; he that ſaith I <hi>will not,</hi> when God ſaith <hi>do, he</hi> that ſaith I <hi>will,</hi> when God ſaith <hi>do not; (Oh do not this abominable thing that I hate)</hi> he ſaith by interpretation I <hi>will be God:</hi> Oh did you but under<g ref="char:EOLhyphen"/>ſtand the blaſphemous language of ſin, you would not ſuffer it
+<pb n="8" facs="tcp:156220:9"/>to harbour one hour longer in your boſoms: the truth is, the Enemies of Gods truth and people would not onely have the <hi>Sword</hi> off from Chriſt his <hi>thigh,</hi> the <hi>Scepter</hi> out of his <hi>Hand,</hi> the <hi>Crown</hi> off from his <hi>Head,</hi> but his very life out of his <hi>heart;</hi> not <hi>un-ſcepter</hi> him only, but <hi>un-eſſence</hi> him, <hi>If ſin and ſin<g ref="char:EOLhyphen"/>ners could helpe it, God ſhould be God no longer.</hi>
+               </p>
+               <p>And now Chriſtians, they that are Enemies to Gods people upon theſe termes, are they not Enemies to God himſelf? They that thus hate the <hi>Saints,</hi> do they not hate alſo <hi>the God</hi> of the Saints?</p>
+            </div>
+            <div type="part">
+               <head>
+                  <g ref="char:V">Ʋ</g>ſe. <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe. </seg>1</label> 
+               </head>
+               <p>If this be an invincible truth, then</p>
+               <p>Firſt, <hi>The more have they to anſwer for, that ſhew mercy to theſe Enemies of the Church and people of God,</hi> ſince God is concern<g ref="char:EOLhyphen"/>ed in the Quarrell more then they; If the <hi>ſons of Belial,</hi> that are riſen up againſt the peace and ſafety of the Kingdome, were our Enemies onely, we might uſe our diſcretion, and make what <hi>accommodation</hi> we pleaſe;
+<note place="margin">1 Kings 20.41.</note> but if theſe be <hi>Sheba's the ſons of Bi<g ref="char:EOLhyphen"/>chri</hi> who are riſen up againſt <hi>David,</hi> yea againſt him who is the <hi>Son</hi> and <hi>Lord of David,</hi> in that obſtinate and implacable rebel<g ref="char:EOLhyphen"/>lion; crying, <hi>Nolumus hunc regnare,</hi> come what will on't, <hi>This man ſhall not raign over us,</hi> then ſurely we cannot com<g ref="char:EOLhyphen"/>pound the matter as we pleaſe, without <hi>wrong to Christs Crown and danger to our own Heads.</hi>
+               </p>
+               <p>Secondly, <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe. </seg>2</label> Are the Churches Enemies Gods Enemies? <hi>Then the more hopes we have,
+<note place="margin">Job. 9.4.</note> they ſhall not ſtand long: who hath hard<g ref="char:EOLhyphen"/>ned himſelf againſt God and proſpered?</hi> As <hi>Jezebel</hi> ſaid, when <hi>Je<g ref="char:EOLhyphen"/>hu</hi> came in at the gates:
+<note place="margin">2 Kings 9.31.</note> 
+                  <hi>Had</hi> Zimri <hi>peace who ſlew his maſter?</hi> So may I ſay, Had <hi>Cain peace who ſlew his Brother?</hi> Did <hi>Phara<g ref="char:EOLhyphen"/>oh proſper who hardned himſelf againſt God?</hi> Had <hi>Saul peace who perſecuted righteous David?</hi> Did <hi>Judas proſper who betrayed his Maſter?</hi> Did <hi>Julian proſper who blaſphemed Jeſus Chriſt?</hi> Have the Enemies of the Church proſpered? No ſurely, Why? be<g ref="char:EOLhyphen"/>cauſe they be <hi>Gods Enemies</hi> as well as the <hi>Churches.</hi> Enemies to Chriſt his Kingdome, as well as the Churches peace; whoſe doom is long ſince paſt and ſhall be in due time executed.</p>
+               <pb n="9" facs="tcp:156220:9"/>
+               <q>
+                  <hi>And thoſe mine Enemies that would not have me reign over them,
+<note place="margin">Luke 19.<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</note> bring them hither and ſlay them before me.</hi>
+               </q>
+               <p>Surely this <hi>day of vengeance is in Chriſts heart,</hi> and their judgement <hi>ſlumbreth not,</hi> is not the ſound of its feet at the very dores?</p>
+               <p>They think they are <hi>wiſe</hi> and truſt in their <hi>help.
+<note place="margin">Iſa. 31.2.</note> But he alſo is wiſe and will bring evill, and will not call back his word, but will ariſe againſt the houſe of the evill doers and against the help of them that work iniquity.</hi>
+               </p>
+               <p>Thirdly, <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe. </seg>3</label> 
+                  <hi>The more warrant and encouragement have we to ſet upon God for their deſtruction;</hi> a mighty advantage in prayer. There is a queſtion, Whether we may pray for the deſtruction of our Enemies or no? This Doctrine will reſolve it. When they are <hi>our Enemies</hi> onely, and ſin <hi>Ignorantly, ſeducedly, then, Father forgive them they know not what they do:</hi>
+                  <note place="margin">Luk. 23.34. Act. 7.60. 2 Kings. 6.17.</note>
+               </p>
+               <p>
+                  <hi>And, Lord lay not this ſin to their charge.</hi>
+               </p>
+               <p>
+                  <hi>Then, Lord open the eyes of theſe men,</hi> with the prophet, that is, Lord <hi>convince</hi> them, Lord <hi>convert</hi> them, is becomming langvage for Chriſtians:</p>
+               <p>But when they <hi>diſcover their ſins as Sodom,</hi> when they make it apparent to all the world, that if there be <hi>a God,</hi> in heaven, they <hi>hate</hi> him, if a <hi>Chriſt</hi> and a <hi>Goſpel,</hi> they are <hi>ſworne irrecon<g ref="char:EOLhyphen"/>cileable Enemies to both,</hi> and that they ſin <hi>Seducingly,</hi> and out of <hi>malicious wickedneſſe;</hi> Then,</p>
+               <q>
+                  <p>
+                     <hi>O Lord God of hoſts the God Iſrael awake to viſit all the Hea<g ref="char:EOLhyphen"/>then, be not mercifull to them,</hi>
+                     <note place="margin">Pſal. 59.5.</note> to them that ſin of malicious wickedneſſe, <hi>make their Nobles like</hi> Oreb <hi>and</hi> Zeeb,
+<note place="margin" type="runSum">Pſal. 83.11, 12.</note> 
+                     <hi>yea all their Princes as</hi> Zeba <hi>and</hi> Zalmunna, <hi>who ſaid, let us take to our ſelves the houſes of God in poſſeſſion.</hi>
+                  </p>
+                  <p>
+                     <hi>O my God make them like a wheel,
+<note place="margin" type="runSum">13.</note>and as the ſtubble before the winde;</hi>
+                  </p>
+                  <p>
+                     <hi>As the fire burneth the wood,
+<note place="margin" type="runSum">14.</note>and as the flame ſetteth the mount<g ref="char:EOLhyphen"/>aines on fire.</hi>
+                  </p>
+                  <p>
+                     <hi>So perſecute them with thy tempest,
+<note place="margin" type="runSum">15.</note>and make them afraid with thy ſtorm.</hi>
+                  </p>
+                  <p>
+                     <hi>Fill their face with ſhame,
+<note place="margin" type="runSum">16.</note>that they may ſeek thy Name O Lord.</hi>
+                  </p>
+                  <pb n="10" facs="tcp:156220:10"/>
+                  <p>
+                     <hi>Let them be confounded and troubled for ever,
+<note place="margin" type="runSum">17.</note>yea let them be put to ſhame and periſh.</hi>
+                  </p>
+                  <p>
+                     <hi>Pul them out like ſheep for the ſlaughter,
+<note place="margin">Ier. 12.4.</note> and prepare them for the day of ſlaughter.</hi>
+                  </p>
+                  <p>
+                     <hi>Set thou a wicked man over him,
+<note place="margin">Pſal. 109.6,</note> and let Satan ſtand at his right hand.</hi>
+                  </p> 
+                  <hi>Where he ſhall be be Judged, <milestone type="tcpmilestone" unit="unspecified" n="7"/> let him be condemned, and let his praier be turned into ſin,</hi> (though truly our Enemies will ſave us this labour; for they pray not at all, they deride and geere at prayer, blaſpheme the Spirit of prayer, yea they them<g ref="char:EOLhyphen"/>ſelves have turned their praiers into ſin, prayers into curſes, and <hi>forgive us our treſpaſſes</hi> into fearfull and <hi>deſperate in<g ref="char:EOLhyphen"/>vocations</hi> of <hi>Damnation:</hi> in which caſe the Prophet feares not to follow them home with Curſes:
+<note place="margin" type="runSum">17.</note>
+                  <hi>As he loved curſ<g ref="char:EOLhyphen"/>ing, ſo let it come unto him; as he delighted not in bleſſing, ſo let it be far from him.
+<note place="margin" type="runSum">18.</note>As he clothed himſelf with curſing like as with his Garment, ſo let it come into his bowels like water, and like oyle into his bones, &amp;c.</hi>)</q>
+               <p>I ſay, when they be Gods Enemies, and profeſſe themſelves ſo to all the world, then, ſuch expreſſions as theſe will be no <hi>breaches</hi> to the law of charity, nor blemiſhes in the prayers of Gods people.</p>
+               <p>Provided that we look to our hearts, that we be upright in this matter, and that the enmity that theſe men bear, and the blaſpemy they belch out againſt God, affect us more then the ſlaughter and perſecution they breath out againſt our ſelves. <hi>Peradventure</hi> (<hi>ſaid</hi> Jacob) <hi>my father will feel me, and if I ſeem to him as one that mocke, I ſhall bring a Curſe upon me inſtead of a bleſſing.</hi>
+               </p>
+               <p>If God ſee us <hi>pretending</hi> his wrongs, but <hi>intending</hi> our own, curſing them as his Enemis, but hating them onely as our own, we ſhall tranſlate their curſe upon our own heads.</p>
+               <p>Otherwiſe, if God ſee our hearts deeply <hi>affected</hi> with, and bitterly <hi>afflicted</hi> for the Inſolencies and Violences done to his Name and Glory; <hi>as we need not be afraid</hi> to pour out ſuch vials of wrath upon them (for the vials of wrath are nothing elſe but the praiers of the Saints, ſhowred down in ſtormes of vengeance upon the head of the wick<g ref="char:EOLhyphen"/>ed)
+<pb n="11" facs="tcp:156220:10"/>
+                  <hi>ſo, there cannot,
+<note place="margin">Revel. 8.4, 5.</note> be an argument of greater advantage</hi> to prevail with God for their deſtruction, then when a peo<g ref="char:EOLhyphen"/>ple, or perſon can demonſtrate this to God in their pray<g ref="char:EOLhyphen"/>ers, that whom they pray againſt are <hi>Gods Eenemies,</hi> as well as <hi>their own,</hi> that their hatred is not ſo much againſt <hi>them</hi> as againſt <hi>God,</hi>
+                  <note place="margin">Pſal. 44 22.</note> and that for <hi>his Names ſake they are killed all the day long.</hi> Truely, make this appear, and we may be ſilent in our own Cauſe; God is concernd in it more then our ſelves.</p>
+               <p>And truly our Enemies themſelves will teach us this wiſe<g ref="char:EOLhyphen"/>dome; It is, and hath been from Ancient times, the cur<g ref="char:EOLhyphen"/>ſed policy of deſperate Malignant Courtiers, and Counſel<g ref="char:EOLhyphen"/>lours, when they would Arme Princes and Potentates againſt the poor people of God, to poſſeſſe their ears and hearts with this prejudice, That they are <hi>Enemies to Monarchy, Traytors</hi> and <hi>Rebels</hi> to the <hi>Crown</hi> and <hi>Dignity</hi> of Kings and Princes.</p>
+               <p>So did of old, <hi>Rehum</hi> the <hi>Chancellour,</hi> and <hi>Shimſhie</hi> the <hi>Scribe,</hi> (a couple of <hi>Arch Malignants</hi>) labour to bring the Jews into disfavour and <hi>odium</hi> with <hi>Attaxerxes,</hi> as you may read in that <hi>Scandalous Libell,</hi> or letter,
+<note place="margin">Ezra. 4.8.</note> they writ to Ba<g ref="char:EOLhyphen"/>bylon.</p>
+               <list>
+                  <item>
+                     <hi>Be it known unto the King (ſaid they) that the Jews which came up from thee to us, are come to Jeruſalem,
+<note place="margin" type="runSum">12.</note>build<g ref="char:EOLhyphen"/>ing the rebellious and bad City, &amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>Be it known now to the King that if this City be builded,
+<note place="margin" type="runSum">13.</note>and the wall ſet up again, then will they not pay toll tribute and Cuſtome, and ſo thou ſhalt endamage the Revenue of the King.</hi> And ſo again.</item>
+                  <item>
+                     <hi>Let ſearch be made in the book of the Records of thy fathers,
+<note place="margin" type="runSum">
+                           <hi>Verſ.</hi> 15."</note> ſo ſhalt thou finde in the book of the Records, and know that this is a rebellious city, and hurtfull to Kings and Provinces, and that they have moved Sedition within the ſame of old time, for which cauſe was this city deſtroyed.</hi>
+                  </item>
+                  <item>We certifie the King that if this city be built again, &amp;c.
+<note place="margin" type="runSum">16.</note>by this means, <hi>thou ſhalt have no portion on this ſide the River.</hi>
+                  </item>
+               </list>
+               <p>With ſuch jealouſies did the Enemies of God, and his people in the neighbour nation of <hi>Scotland</hi> labourd to poſſeſſe his
+<pb n="12" facs="tcp:156220:11"/>Majeſty towards thoſe his <hi>loyall Subjects</hi> there. They were repreſented to his Majeſty as <hi>Traitors,</hi> and <hi>Rebels,</hi> that in<g ref="char:EOLhyphen"/>tended nothing elſe but to <hi>un-crown,</hi> and <hi>un-King him,</hi> when power ſhould be in their own hand.</p>
+               <p>And is not the ſame Deſigne practiſed upon his faithfull <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> and <hi>Subjects</hi> here in <hi>England?</hi> Do not theſe <hi>Rehums,</hi> and <hi>Shimſhies</hi> fill his Royall ears with this <hi>odium,</hi> That the Par<g ref="char:EOLhyphen"/>liament, and the Puritans are enemies to Monarchy, and intend nothing but to bring all into a <hi>Parity,</hi> and after they have pul<g ref="char:EOLhyphen"/>led down <hi>Biſhops,</hi> then down with <hi>King</hi> too; with a world of ſuch calumnies, invented by the father of lies. Truely the land is not able to bear their words.</p>
+               <p>This is their policie; for theſe <hi>mediums</hi> they know are moſt proper to render <hi>themſelves gracious</hi> to Soveraignty, and the people whom they would trample under feet, <hi>odious</hi> and <hi>un<g ref="char:EOLhyphen"/>ſufferable,</hi> Kings being jealous enough, of what ever may <hi>endan<g ref="char:EOLhyphen"/>ger</hi> their <hi>Crowns, limit</hi> their <hi>Power,</hi> or <hi>eclypſe</hi> their <hi>Glory.</hi>
+               </p>
+               <p>But as it is the policy of <hi>malignants,</hi> ſo it is their <hi>wickedneſſe</hi> too; they <hi>lie</hi> when they uſe theſe Arguments to Kings and Prin<g ref="char:EOLhyphen"/>ces. The <hi>God of truth</hi> knows they <hi>lie:</hi> And the Father of lights open the eyes of the Kings and Princes of the Earth, in his good time, to ſee how much <hi>they</hi> are abuſed, as well as their ſubjects, that that propheſie and promiſe may once be made good:
+<q>
+                     <hi>The Governours of Judah ſhall ſay in their heart,
+<note place="margin">Zach. 12.5.</note> the Inha<g ref="char:EOLhyphen"/>bitants of Jeruſalem ſhall bee my ſtrength, in the Lord of Hoaſts their God.</hi>
+                  </q>
+               </p>
+               <p>Thoſe that I had once thought, had been my worſt enemies, and traitors, I ſee now are my beſt friends and ſubjects. The Lord haſten this in his time.</p>
+               <p>But Brethren, in the mean time, though the enemies of Gods people, <hi>lie</hi> when they uſe this argument to Kings and Princes; Gods people ſhall not need to fear <hi>the lie,</hi> when they uſe this argument againſt their enemies to God; for they be <hi>Gods enc<g ref="char:EOLhyphen"/>mies</hi> as well as the <hi>Churches,</hi> and they hate God as much, and more then they hate his people, <hi>Enemies to the Crown and dig<g ref="char:EOLhyphen"/>nity of the Lord Jeſus, King of the Church;</hi> (himſelf being witneſſe) they ſtrike at God through his peoples ſides; And therefore if you ſhall plead this Argument, with ſutable affe<g ref="char:EOLhyphen"/>ctions,
+<pb n="13" facs="tcp:156220:11"/>you may with an humble conſidence, expect that God will take it well at your hands, and take ſuch order with your enemies, as ſhall make for your ſecurity, and the advancement of his own Soveraignty; God being more jealous, and more righteouſly, of his crown and dignity, then any of the Mo<g ref="char:EOLhyphen"/>narchs of the Earth can be of theirs, who are but his Deputies; hear him elſe; <hi>I am the Lord, that is my Name,
+<note place="margin">Iſa. 42.8.</note> and my glory will I not give to another.</hi> God cannot endure a <hi>Rival</hi> in his King<g ref="char:EOLhyphen"/>dome. But I have ſtaid too long upon this, I muſt haſten for<g ref="char:EOLhyphen"/>ward, to the <hi>third Doctrine.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>God for a ſeaſon, ſeems ſometimes to liE ſtill, and ſleep. <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>3</label> 
+               </head>
+               <p>This is the occaſion of all thoſe awakening cries, which Gods people make in his ears.</p>
+               <q>
+                  <hi>Awake, why ſteepeſt thou? ariſe caſt us not off for over.</hi>
+                  <bibl>Pſal. 44.23.</bibl>
+               </q>
+               <q>
+                  <hi>Ariſe, O Lord, let not man prevail.</hi>
+                  <bibl>Pſal. 9.19.</bibl>
+               </q>
+               <q>
+                  <hi>Ariſe, O Lord, ſave me, O my God:</hi>
+                  <bibl>Pſal. 3.7.</bibl>
+               </q>
+               <q>
+                  <hi>And ariſe, O Lord, plead thine own cauſe.</hi>
+                  <bibl>Pſal. 74.22.</bibl>
+               </q>
+               <p>So here, <hi>Let God ariſe, &amp;c.</hi>
+               </p>
+               <p>Theſe expreſſions bee ſo frequent in the <hi>Pſalms,</hi> and elſe where, that they need no Quotation.</p>
+               <p>The Church comes to God, as the Diſciples once came to Chriſt, when he was aſleep in the ſhip.</p>
+               <q>
+                  <hi>Awake Maſter, why ſleepeſt thou,
+<note place="margin">Mark 4.38.</note> careſt thou not that wee poriſh?</hi>
+               </q>
+               <p>God hath his <hi>Ends</hi> in it, and theſe may bee ſome of them, briefly. <label type="milestone">
+                     <seg type="milestoneunit">Reaſons. </seg>1</label> 
+               </p>
+               <p>Firſt, <hi>That hee may ſee what his enemies will do.</hi> (we ſpeak after the manner of men) The Maſter ſometimes makes as if he ſlept, to ſee what the ſervant will do, when ſuch and ſuch advantages lie before him. If God were alwayes <hi>up,</hi> and <hi>diſ<g ref="char:EOLhyphen"/>covering himſelf in the world,</hi> the thouſandth part of that <hi>rage,</hi> and <hi>enmity,</hi> that is in the ſeed of the Serpent, againſt the ſeed of the Woman, Chriſt and his members, would not ſhew it ſelf; they would certainly bite it in.</p>
+               <p>But let God <hi>hold his peace,</hi> and make as if he did <hi>not ſee;</hi> let him <hi>ſuſpend</hi> the execution of his righteous and dreadfull judge<g ref="char:EOLhyphen"/>ments for a time in the world, then the curſed malignity, and
+<pb n="14" facs="tcp:156220:12"/>venom that is in the ſpirits of wicked men, will diſcover it ſelf to purpoſe: They will rage and ſtorm, plunder and impri<g ref="char:EOLhyphen"/>ſon, deflowre virgins, raviſh women, murder, burn, deſtroy, and exerciſe all the cruelty, and villany that the wit of malice can invent; lie, ſwear, and forſwear, curſe, blaſpheme, and even dare the God of heaven to do his worſt. In a word, then the Atheiſme and villany that is in their ſpirits will break out like a ſtream of wild-fire, devouring all that ſtands before it. Like a Wolf, when the Shepherd is out of the way, or laid down to ſleep, then falls a <hi>worrying,</hi> and <hi>tearing</hi> the poor ſheep, and tender lambs.</p>
+               <p>The encouragement to all this villany is, <hi>Gods lying ſtill;</hi>
+               </p>
+               <p>
+                  <hi>They break in pieces thy people, O Lord, and afflict thine he<g ref="char:EOLhyphen"/>ritage. They ſlay the widow and the ſtranger, and murder the fa<g ref="char:EOLhyphen"/>therleſſe.</hi>
+               </p>
+               <p>What is it that emboldens them to all this villany? It fol<g ref="char:EOLhyphen"/>lows: <hi>They ſay, The Lord ſhall not ſee, neither ſhall the God of Iacob regard it.</hi>
+               </p>
+               <p>The enemies of God, that are up in arms againſt him, and his people in this Kingdom, have put ſuch blaſphemous Gloſſee upon this Text, that if <hi>David</hi> were alive, he would bee afraid to read his own Text in Paraphraſe. <hi>Surely, becauſe ſentence againſt evill doers,
+<note place="margin">Eccleſ. 8.11.</note> is not ſpcedily executed, therefore the heart of theſe ſonnes of men (or rather theſe ſonnes of Belial) is fully ſet in them to do evil.</hi>
+               </p>
+               <p>They take Gods <hi>ſilence,</hi> for Gods <hi>conſent;</hi> becauſe <hi>hee holds his peace,
+<note place="margin">Pſal. 50.21.</note> they think he is altogether like themſelves. But hee will reprove them, and ſet their ſinnes in order before their eyes:</hi> And ſurely in that <hi>order,</hi> there will bee nothing elſe but <hi>confuſion:</hi> And this may be the meaning of thoſe words of <hi>Simeon</hi> to <hi>Ma<g ref="char:EOLhyphen"/>ry;
+<note place="margin">Luke 2.35.</note> A ſword ſhall paſſe through thine own ſoul, that the thoughts of many bearts may he revealed;</hi> that is, God would leave <hi>his own dear Son,</hi> in the power of men, and make as if hee were aſleep, and did not ſee, that ſo the ſecret <hi>hypocriſie,</hi> and <hi>atheiſme,</hi> and <hi>villany</hi> that was in mens ſpirits, might fully diſcover it ſelf; That's the firſt Reaſon.</p>
+               <p>Secondly,
+<note place="margin">Hoſ. 5.15.</note> God doth this, <hi>that he may ſee what his people will do.</hi>
+               </p>
+               <p>
+                  <hi>I will go and return to my place, till they acknowledge their of<g ref="char:EOLhyphen"/>fences, &amp;c.</hi>
+               </p>
+               <pb n="15" facs="tcp:156220:12"/>
+               <p>I will ſee whether they will <hi>confeſſe,</hi> and <hi>mourn,</hi> and <hi>re<g ref="char:EOLhyphen"/>pent,</hi> and <hi>humble themſelves,</hi> and <hi>pray,</hi> and <hi>wait,</hi> and <hi>keep cloſe</hi> to God, and ſtand for him, and venture their Liberties, Eſtates, and Lives for Jeſus Chriſt and his Goſpel; Whether they <hi>love father and mother, ſonne or daughter, or any thing in the world more then me:</hi>
+               </p>
+               <p>Yea Brethren, <hi>God ſeems to ſleep,</hi> that <hi>they may not ſleep;</hi> he ſeems to ſleep, that hee may <hi>awaken them out of the ſleep</hi> of ſecurity; hee <hi>ſeems to lie ſtill,</hi> that he may <hi>raiſe them up;</hi> hee lets the cra<g ref="char:EOLhyphen"/>dle of his Providence ſtand ſtill a while, till the children <hi>crie,</hi> and then he <hi>beſtirs</hi> himſelf with the tender hearted mother.</p>
+               <p>Thirdly, hee doth this, that ſo <hi>wee may ſee what hee will do. Stand ſtill and ſee the ſalvation of God.</hi> God ſeems to ſleep, that ſo his enemies may go on, and gather themſelves together, and ſo he may bring them all into an <hi>Ambuſh,</hi> and deſtroy them to<g ref="char:EOLhyphen"/>gether. Gods ſleeping time, is nothing elſe but his enemies <hi>Am<g ref="char:EOLhyphen"/>buſhing-time.</hi>
+               </p>
+               <p>There are two famous places for this, <hi>Joſh.</hi> 11.19, 20. ſpeaking there of the Nations, the Text ſaith;
+<note place="margin">Ioſh. 11 19, 20.</note> There was not a Nation that made peace with the children of Iſrael, ſave the Gibeonites, why? <hi>For it was of the Lord, to harden their hearts, that they might go againſt Iſracl in Battell, that they might bee deſtroyed, and finde no mercy.</hi> God ſuffered them to gather to<g ref="char:EOLhyphen"/>gether, that ſo they might be deſtroyed together, and ſave Iſrael a labour in purſuing and ſlaughtering them in too many places. There is a propheſie of the like Providence in the <hi>fourth</hi> of <hi>Mi<g ref="char:EOLhyphen"/>cha</hi> 11, 12, 13. <hi>verſes</hi> where you ſhall finde God uſing the ſame Stratagem; <hi>It ſhall come to paſſe, that many Nations ſhall gather together againſt Sion, (one poor little Sion)</hi> that in all naturall probability, was not able to have raiſed ſtrength enough to have waged war with <hi>one Nation;</hi> behold <hi>many Nations</hi> aſſo<g ref="char:EOLhyphen"/>ciate againſt her, armed with fury; as well as with power; For ſo you hear them inſulting and threatning:
+<note place="margin">
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Inſultabimus,</hi> or <hi>per metathe<g ref="char:EOLhyphen"/>ſin,</hi> 
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>adultera eſt, punietur.</hi>
+                  </note> 
+                  <hi>Let her be defi<g ref="char:EOLhyphen"/>led, and let our eye look upon Sion.</hi> Let her be defiled, or <hi>lapide<g ref="char:EOLhyphen"/>tur,</hi> let her be <hi>ſtoned;</hi> which was the proper puniſhment of Adultereſſes, and ſo ſome read it; <hi>She is an adultereſſe,</hi> or <hi>un<g ref="char:EOLhyphen"/>clean, defiled,</hi> and therefore let her bee ſtoned, put to death; ſo they palliat their <hi>cruelty</hi> with the garment of <hi>Juſtice,</hi> as if they
+<pb n="16" facs="tcp:156220:13"/>came but to execute Gods Commiſſion, ſo <hi>Rabſheka,</hi> Iſa. 36.10. <hi>Am I now come up without the Lord,</hi> againſt this land to deſtroy it? The <hi>Lord ſaid to me, go up againſt this land and deſtroy it.</hi> They pretend <hi>Juſtice</hi> I ſay, but they betray <hi>malice</hi> and hatred in the very next words; <hi>Let our eye look upon Sion; (i. e.)</hi> let us <hi>delight</hi> and <hi>ſport</hi> our ſelves in the deſolation of Sion; they pro<g ref="char:EOLhyphen"/>miſe to ſatisfie both their <hi>luſt</hi> and cruelty at once upon Sion: and what ſhould hinder them? God ſeems to <hi>be aſleep</hi> all this while, and there is but <hi>one Sion</hi> to <hi>many Nations;</hi> one would ſurely give <hi>Sion</hi> for loſt, that ſhould ſee her beſet with ſuch multitudes of Armies, and her God <hi>ſtand by</hi> and <hi>ſay nothing</hi> all this while. Oh but ſaith the Prophet, let them alone, fear them not, let them come when they will; <hi>They know not the thoughts of the Lord,</hi> they know what they mean, they know not what God meanes. They little know what a deſigne God hath upon them: ſtand ſtill and ſee the Salvation of God, for ſaith he, God all this while is but <hi>laying an ambuſh for them,</hi> and when he hath them at the advantage you ſhall ſee what work the Lord will make with them:
+<note place="margin">Verſ. 13.</note> 
+                  <hi>for he ſhall gather them as the ſheaves into the floor: Ariſc and threſh, O daughter of Zion: For I will make thine horn iron, and I will make thy hoofs braſſe, and thou ſhalt beat in pieces many people:</hi> They had thought to have <hi>thraſht Sion, but Sion</hi> ſhall <hi>thraſh them.</hi> They had thought to have deſtroyed <hi>Sion,</hi> but <hi>Sion</hi> muſt <hi>deſtroy them;</hi> God ariſeth and bids Sion thraſh them: Lay on Sion; ſpare them not; till thou haſt beat them to duſt; I will ſtand by thee, and ſtrengthen thee to do execu<g ref="char:EOLhyphen"/>tion to purpoſe upon theſe Enemies, and haters of God and Si<g ref="char:EOLhyphen"/>on: <hi>I will make thine horne iron, and thy hoofs braſſe,</hi> thou ſhalt hold out till thou haſt utterly conſumed them. The ſum of all you have, Iſa. 1.28. <hi>The deſtruction of tranſgreſſours, and of ſinners ſhall be together.</hi> God lets them go, and gather them<g ref="char:EOLhyphen"/>ſelves together, and then when they think they are ripe for <hi>their</hi> Deſignes, God findes them ripe for <hi>his;</hi> and <hi>deſtroys them at once.</hi>
+               </p>
+               <p>All the <hi>vſe</hi> I ſhall make of this, <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe. </seg>
+                  </label> ſhall be onely to turn you to that place (and the Lord turn your hearts to it) Iſa. 26.6, 7. <hi>O you that are the Lords remembrancers,
+<note place="margin">Iſa. 62.6, 7.</note> give him no reſt till he ariſe, &amp;c.</hi> For that very purpoſe hath God ſet you upon <hi>the wall,</hi>
+                  <pb n="17" facs="tcp:156220:13"/>that when he ſeems to ſleep, you ſhould come and <hi>awaken him,</hi> and give him <hi>notice</hi> of the <hi>approach of the Enemie,</hi> and <hi>cry</hi> him up to the reſcue of his Church and people; <hi>Ariſe, O Lord, leaſt man prevail, &amp;c.</hi> This is your very <hi>calling,</hi> you that are the <hi>Miniſters</hi> of the Goſpel, and <hi>people</hi> of the Lord; Give him there<g ref="char:EOLhyphen"/>fore no reſt untill you have raiſed him out of his holy <hi>habitati<g ref="char:EOLhyphen"/>on,</hi> and till he hath made <hi>Sion the praiſe of the whole earth,</hi> It is our ſin and folly that if God ſeem to be a ſleep, <hi>we go to ſleep too,</hi> if God be down, <hi>we are down alſo,</hi> either in <hi>ſecurity,</hi> or <hi>deſpaire; What mean you oh ſleepers? ariſe and call upon your God, &amp;c.</hi> and awaken him with your importunate cries, <hi>Let God ariſe, &amp;c.</hi> But ſo much for that point, I come now to the fourth Doctrine, which is this;</p>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>God hath a time wherein he will awake and ariſe,</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>4</label> though he hath ſeemed before to be aſleep, you need not doubt of the truth hereof, you have the <hi>promiſe</hi> from Gods own mouth;
+<note place="margin">Iſa. 33.10.</note> 
+                  <hi>Now will I ariſe,</hi> and oft in Scripture elſewhere, &amp;c. And the ſervants of the Lord dare beleeve him upon his word, Pſal. 102.12. <hi>Thou wilt ariſe and have mercy upon Zion,</hi> God <hi>promiſeth it,</hi> and they <hi>beleeve it,</hi> and dare not do otherwiſe.</p>
+               <p>Now that which I ſhall endeavour to do, in the managing of this precious truth ſhall be <hi>theſe four things, viz.</hi>
+               </p>
+               <p>Firſt, to <hi>open to you the meaning of the phraſe,</hi> what it doth import, and ſhew you, <hi>what it is</hi> for God to ariſe.</p>
+               <p>Secondly, <hi>I ſhall ſhew you what theſe Nows or times are when God will ariſe,</hi> and when his people may expect that he will exalt himſelf in their behalf.</p>
+               <p>Thirdly, <hi>The Grounds of it, why God will ariſe.</hi>
+               </p>
+               <p>Fourthly, <hi>I ſhall improve it</hi> according to the ſeaſonableneſſe thereof.</p>
+               <p>Firſt, <hi>What it is for God to ariſe,</hi> I will ariſe, &amp;c. <milestone type="tcpmilestone" unit="unspecified" n="1"/> God <hi>doth like himſelf,</hi> but he <hi>ſpeaks like man,</hi> for the infirmity of our fleſh; this I ſhall deſire you to carry along with you, while I open this expreſſion to you, for which purpoſe take this in <hi>Generall;</hi> look whatſoever this <hi>phraſe</hi> doth <hi>import</hi> amongſt <hi>men,</hi> you ſhall finde in Scripture the ſame things are <hi>attributed vnto God,</hi> and <hi>God doth aſſume them to himſef</hi> when he doth ariſe for the delive<g ref="char:EOLhyphen"/>rance
+<pb n="18" facs="tcp:156220:14"/>of his people; Now this expreſſion amongſt men (namely) <hi>to ariſe,</hi> That is, to ariſe to the undertaking of ſome work, as the <hi>Encountring with,</hi> and the <hi>Conquering of an Ene<g ref="char:EOLhyphen"/>my,</hi> as here it doth imply <hi>ſix or ſeven gradations,</hi> and you ſhall finde them all in Scripture to bee attributed unto God.</p>
+               <p>Firſt, <milestone type="tcpmilestone" unit="unspecified" n="1"/> to <hi>ariſe</hi> amongſt men, in the firſt degree of it doth <hi>im<g ref="char:EOLhyphen"/>plie an opening of the eyes,</hi> a man cannot ariſe till he be awaked: and this very thing you ſhall finde <hi>attributed</hi> to God, God him<g ref="char:EOLhyphen"/>ſelf <hi>uſeth</hi> the expreſſion,
+<note place="margin">Exod. 3.7, 8.</note> 
+                  <hi>I have ſurely ſeen the affliction of my people, &amp;c.</hi> God hath ſeemed for ſome hundreds of yeers toge<g ref="char:EOLhyphen"/>ther, to have <hi>been aſleep,</hi> and all that while to have taken no care what became of his people, in <hi>Egypt,</hi> therefore the firſt newes of Deliverance comes to them in this language, <hi>God is awaked and hath ſeen your affliction, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> It doth imply <hi>a taking of counſell:</hi> Counſell is nothing elſe, but the <hi>awaking</hi> and <hi>raiſing</hi> of the Intellectualls to any undertaking, and this alſo God doth <hi>aſſume</hi> to him<g ref="char:EOLhyphen"/>ſelf: You may hear him calling all his <hi>Enemies</hi> to take notice of the counſell which he took againſt them. Ier. 49.20. <hi>Therefore heare the Counſell of the Lord, that he hath taken against Edom,
+<note place="margin">Ier. 49.20.</note> and his purpoſe that he hath purpoſed againſt the Inhabi<g ref="char:EOLhyphen"/>tants of Teman; Surely the leaſt of the flock ſhall draw them out: Surely he ſhall make their habitation deſolate with them,</hi> and ſo Chap. 51.11. there God ſpeaks thus; <hi>My deviſe is againſt Ba<g ref="char:EOLhyphen"/>bylon, to deſtroy it:</hi> this is the ſecond ſtep of Gods vengeance, God had <hi>opened his eyes</hi> to ſee the opreſſions of his people in <hi>Ba<g ref="char:EOLhyphen"/>bylon,</hi> (as formerly in <hi>Egypt</hi>) and now God calls (as it were) a <hi>Councell of War,</hi> how he may execute his vengeance upon <hi>Ba<g ref="char:EOLhyphen"/>bylon; The vengeance of the Lord, the vengeance of his Tem<g ref="char:EOLhyphen"/>ple.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> it implieth <hi>reſolution,</hi> a <hi>man</hi> is <hi>up</hi> when his <hi>ſpirit</hi> and <hi>reſolutions</hi> are up;
+<note place="margin">Iſa. 14.24, 25, 26.</note> and this is attributed unto God alſo; <hi>as I have thought,</hi> (ſaith God) <hi>ſo it ſhall ſtand:</hi> God had a long time lyen ſtill, and then they began to trample God and his people under foot, and God is <hi>reſolved</hi> to bear it no longer, therefore faith he, <hi>This is my purpoſe,</hi> I am determined what to do, <hi>I will caſt the Aſſyrians out of the Land.</hi>
+               </p>
+               <pb n="19" facs="tcp:156220:14"/>
+               <p>Fourthly, <hi>Riſing</hi> amongſt men, <milestone type="tcpmilestone" unit="unspecified" n="4"/> implieth <hi>preparing and ma<g ref="char:EOLhyphen"/>king ready for warre;</hi> preparing men, monies, Ammunition, and all other manner of warlike Artilleries,
+<note place="margin">2 Sam. 3.21.</note> ſaith <hi>Abner</hi> to <hi>Da<g ref="char:EOLhyphen"/>vid; I will ariſe, and go and gather all Iſrael together,</hi> that is, I will prepare them for warre, and thus God is expreſt;
+<note place="margin">Pſalm. 7.12, 13.</note> 
+                  <hi>If a man will not turn, hee will whet his ſword, hee hath bent his bow, and made it ready, hee hath alſo prepared his inſtruments of death, &amp;c.</hi> Hear, and tremble, and deſire the people of God to pray for you, (if there be any of the enemies of God, and his peo<g ref="char:EOLhyphen"/>ple here this day) you are <hi>all dead men,</hi> God hath <hi>whet his ſword,</hi> and <hi>bent his bow,</hi> and <hi>made it ready</hi> againſt all that are up in Arms againſt him and his people, how can you eſcape?</p>
+               <p>
+                  <hi>Fifthly,</hi> Another ſtep or gradation, in mans, <milestone type="tcpmilestone" unit="unspecified" n="5"/> and ſo in Gods <hi>riſing,</hi> in the ſence mentioned is, <hi>The putting on of the Armour, the harneſſing of himſelf for the Battell:</hi> Then is a <hi>man up,</hi> when he hath <hi>put on his clothes;</hi> and then is a <hi>Souldier up,</hi> when hee hath <hi>put on his Armour:</hi> and this alſo is ſpoken of God by the Prophet, in Elegant language (as hee was taught by the holy Ghoſt) <hi>And hee looked, and there was no man,
+<note place="margin">Iſaiah 59.17.</note> and hee wondred there was no Interceſſour, therefore his own Arm brought ſalvati<g ref="char:EOLhyphen"/>on, &amp;c. He put on the garments of vengeance for clothing, and was clad with zeal, as with a cloak.</hi> Thus you ſee God armed, from head to foot, then wo bee to his enemies, for it follows;
+<note place="margin">Verſe 18.</note> 
+                  <hi>According to their deeds, accordingly will hee repay fury to his ad<g ref="char:EOLhyphen"/>verſaries, recompence to his enemies, to the Ilands he will repay recompence.</hi>
+               </p>
+               <p>
+                  <hi>Sixtly,</hi> It doth imply a <hi>Marching toward the enemie:</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> It was the word which <hi>David</hi> ſpake unto the <hi>Generall, Ariſe and purſue him,</hi> leſt he get him walled Cities; and eſcape us, &amp;c.
+<note place="margin">2 Sam. 20.6.</note> And this is the word that is proclaimed before the <hi>Lord of Hoaſts: Be ſilent, O all ye Nations, for God is raiſed up,
+<note place="margin">Zach. 2. ult.</note> out of his holy habitation, &amp;c.</hi> It is not ſaid, God is riſen up <hi>in</hi> his holy habitation (he had done this before) but the Lord is raiſed up, <hi>out,</hi> &amp;c. Hee is gone <hi>forth,</hi> hee is upon the March, going to<g ref="char:EOLhyphen"/>wards the Enemy; <hi>Thou didſt march through the Land in in<g ref="char:EOLhyphen"/>dignation,</hi> and then is he riſen indeed.
+<note place="margin">Hab. 3.12.</note> There is but one grada<g ref="char:EOLhyphen"/>tion more to perfect it:</p>
+               <p>
+                  <hi>Seventhly,</hi> And that is, a <hi>Joyning with, <milestone type="tcpmilestone" unit="unspecified" n="7"/> and encountring of
+<pb n="20" facs="tcp:156220:15"/>the Enemie in Battell;</hi> and this is attributed unto God alſo. <hi>He will ariſe againſt the houſe of the wicked:</hi>
+                  <note place="margin">Iſaiah 31.2.</note> And if God and the ene<g ref="char:EOLhyphen"/>mie be once at it, you may eaſily know who will have the beſt. What <hi>David</hi> ſung of <hi>Jonathans Bow,</hi> and <hi>Sauls ſword,</hi> may much more be celebrated of God, 2 <hi>Sam.</hi> 1.22. <hi>From the bloud of the ſlain, and the fat of the mighty, the Bow of Jonathan tur<g ref="char:EOLhyphen"/>ned not back, and the ſword of Saul returned not empty.</hi> When once God hath <hi>drawn his ſword,</hi> hee will not <hi>put it up,</hi> before he hath drawn the bloud of his Enemies.
+<note place="margin">Iſaiah 27.1.</note> 
+                  <hi>In that day the Lord with his ſore, and great, and ſtrong ſword, ſhall puniſh Levia<g ref="char:EOLhyphen"/>than, &amp;c.</hi> When God hath drawn this Sword, and cloſeth, and fighteth with his enemies, then there is nothing to bee ex<g ref="char:EOLhyphen"/>pected but the execution of that vengeance threatned. <hi>There<g ref="char:EOLhyphen"/>fore thus ſaith the Lord,
+<note place="margin">Ezek. 25.13.</note> I will ſtretch out my hand againſt Edom, and will cut off man and beaſt from it, and make it deſolate, &amp;c. Thou didſt march through the Land in indignation,
+<note place="margin">Hab. 3.12.</note> thou didſt threſh the heathen in anger.</hi>
+               </p>
+               <p>This is the higheſt, and laſt ſtep in Gods riſing; when he hath made all <hi>preparations,</hi> and <hi>marcheth</hi> towards them, and not onely <hi>faceth</hi> them, but <hi>joynes battell</hi> with them. Now all theſe things, God doth two wayes.</p>
+               <p>Firſt, <milestone type="tcpmilestone" unit="unspecified" n="1"/> when he doth it by <hi>ſecond cauſes,</hi> as in the place laſt quoted; <hi>I will execute all my vengeance by the hand of Iſrael, &amp;c.</hi> and when God doth a waken his people, and furniſh them with weapons of war, for their own defence, and for the executing of his vengeance upon their enemies; what <hi>they do, God him<g ref="char:EOLhyphen"/>ſelf</hi> is ſaid to do, becauſe it is, both <hi>by his Commiſſion,</hi> and in <hi>his ſtrength.</hi>
+               </p>
+               <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> God doth all this, <hi>immediatly himſelf, by his own Arm.
+<note place="margin">Iſaiah 59.17.</note> I looked, and behold there was no man, ſo mine own Arm brought ſalvation, and my righteouſneſſe that ſuſtained me, &amp;c.</hi> So did God ariſe, and go forth for the deliverance of his people; when by <hi>one Angel</hi> he ſlew a <hi>hundred fourſcore and four thouſand,
+<note place="margin">Iſaiah 37.36.</note> in one night,</hi> of his enemies.</p>
+               <p>Thus you ſee (in part) <hi>what it is for God to ariſe,</hi> and what it doth <hi>import,</hi> namely:
+<list>
+                     <item>The opening of the eyes.</item>
+                     <item>The taking of counſell.</item>
+                     <pb n="21" facs="tcp:156220:15"/>
+                     <item>The putting on of reſolution.</item>
+                     <item>The preparing of Artillery, and weapons of death.</item>
+                     <item>The putting on of Armour.</item>
+                     <item>The marching towards the Enemie, and</item>
+                     <item>The cloſing with them in Battell.</item>
+                  </list>
+               </p>
+               <p>All which God doth, either <hi>by his people,</hi> when hee fills them with reſolution, and ſtrength; or when he doth it <hi>by his own more immediate Arm.</hi>
+               </p>
+               <p>Now for the ſecond Quaere, <hi>ſc.</hi> what <hi>thoſe nows</hi> be, <label type="milestone">
+                     <seg type="milestoneunit">Quaere. </seg>2</label> or what be <hi>thoſe times, when</hi> God will thus ariſe, and exalt himſelf, in the ſcattering of his enemies.</p>
+               <p>I finde in Scripture, <hi>ten ſpeciall nows, or ſeaſons,</hi> when God will thus <hi>ariſe.</hi>
+               </p>
+               <p>Firſt, <hi>When God hears his people ſigh and groan,</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> under the ty<g ref="char:EOLhyphen"/>ranny of their oppreſſours; As at ſuch times they do call and cry: <hi>Awake, why ſleepeſt thou? ariſe O Lord,
+<note place="margin">Pſal. 44.23.</note> caſt us not off for ever: Wherefore hideſt thou thy face, &amp;c. ut ſup.</hi> So, <hi>God hath engaged himſelf by promiſe to ariſe</hi> for their reſcue,
+<note place="margin">Pſal. 12.5.</note> 
+                  <hi>For the oppreſ<g ref="char:EOLhyphen"/>ſion of the poor, and ſighing of the needy, Now will I ariſe, ſaith the Lord, and ſet him in ſafety, from him that puffeth at him.</hi> The people of God <hi>ſigh,</hi> and <hi>cry</hi> under their inſupportable burdens; in the mean time their oppreſſours <hi>puffe at them,</hi> and <hi>laugh them to ſcorn,</hi> and think to ſwallow them up with open mouth, ſaith God. <hi>Now will I ariſe, and ſet them in ſafety, &amp;c.</hi>
+                  <note place="margin">Iſa. 52.5, 6.</note> And again, <hi>Now therefore what have I here, ſaith the Lord, that my people is taken away for nought, and they that rule over them make them to howl, ſaith the Lord, &amp;c. Therefore my people ſhall know my Name.</hi> Ile bear it no longer.</p>
+               <p>Secondly, Another <hi>now,</hi> when God will <hi>ariſe</hi> is, <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                  <hi>When the enemy doth ariſe in his pride, and begins in his own conceit to bee more then man:</hi> When <hi>Pharaoh</hi> asked, <hi>Who is the Lord,</hi> that I ſhould let Iſrael go, then God aroſe and made him know to his coſt, <hi>who he was. Pharaoh</hi> knew no God but <hi>himſelf;</hi> but ſaith God, I will make him know another God above him, before he and I have done. For this very purpoſe, God is ſaid to bee <hi>terrible to the Kings of the earth, and cuts off the ſpirits of Princes.</hi> The Kings of the earth and Princes of the world, if God let them go on and proſper in their deſperate deſignes for a
+<pb n="22" facs="tcp:156220:16"/>time, they will not acknowledge him to be God, but think to carry out with an arme of omnipotence, till God comes upon them,
+<note place="margin">Dan. 4.31.</note> in a <hi>terrible manner,</hi> and <hi>cuts off their ſpirits,</hi> and layes them <hi>for dead</hi> at his feet; that they may know <hi>that the moſt high God ruleth in the Kingdom of men.</hi> The Church was glad of ſuch an opportunity to awaken God up to her aid
+<note n="*" place="margin">Pſal. 9. vlt.</note> 
+                  <hi>Ariſe O Lord, that the Heathen may know themſelves to be but men,</hi> as if he ſhould have ſaid, Lord, theſe proud Heatheniſh Tyrants think they are <hi>ſo many gods;</hi> they know <hi>no God,</hi> but their <hi>own ſtrength,</hi> and their <hi>own wiſdome,</hi> &amp;c, But Lord do <hi>thou ariſe,</hi> and make them know that they are but <hi>dying men,</hi> and that thou onely art the <hi>living God.</hi> And ſo elſewere, God in this caſe (ſenſible of this affront) how emphatically and angerly he ſpeakes to that proud <hi>Prince of Tyrus;</hi>
+                  <note place="margin">Eze. 28.6.9.</note> When his heart began to ſwell above the thoughts of a man, <hi>thus ſaith the Lord God, becauſe thou haſt ſet thy heart as the heart of God, behold therefore, I will bring ſtrangers upon thee,</hi> and they <hi>ſhall draw the ſword againſt thee,
+<note place="margin">v. 9.</note> thy beauty and thy wiſdome ſhall depart, &amp;c.</hi> And in verſ. 9. God jeers the Tyrant thus, <hi>wilt thou yet ſay before him that ſlayeth thee,
+<note place="margin">v. 10.</note> I am God? but thou ſhalt be a man, and no God in the hand of him that ſlayeth thee;</hi> When the ſword of the Executioners of my vengeance is in thy bowels, wilt thou ſay I am God? I will make thee change thy voice before I have done; I will make thee know I am God, and thou but man, when thou ſhalt die a baſe and ignominious, death, the death of the un<g ref="char:EOLhyphen"/>circumciſed.</p>
+               <p>A third <hi>Now</hi> is, when the people of God <hi>are perſecuted for Gods ſake,</hi> when <hi>God</hi> and <hi>truth</hi> and <hi>Religion</hi> is the onely quar<g ref="char:EOLhyphen"/>rell;
+<note place="margin">Pſal. 44.22.</note> and this Argument doth the Church plead for her ſelfe, <hi>For thy ſake are we killed all the day long, we are counted as ſheep for the ſlaughter,</hi> as if they ſhould have ſaid, it is true Lord, <hi>we are not ſo good as we ſhould be,</hi> but truly the Enemies do not per<g ref="char:EOLhyphen"/>ſecute us <hi>becauſe we are ſo bad,</hi> but <hi>becauſe we are no worſe:</hi> The quarrell is, That we are thine, and deſire to ſtand for thy Cauſe,
+<note place="margin">v. 23. v. 26.</note> and for thy truth; And therefore upon this conſideration ſhe bottoms her petition, and doubles it, verſes 23, 26. <hi>Awake, why ſleepeſt thou, O Lord? ariſe, caſt us not off for ever, ver.</hi> 26. <hi>Ariſe for our help and redeem us for thy mercies ſake:</hi> And as up<g ref="char:EOLhyphen"/>on
+<pb n="23" facs="tcp:156220:16"/>this ground the Church beggs,
+<note place="margin">Iſaiah 66.5.</note> 
+                  <hi>ſo upon the ſame God promi<g ref="char:EOLhyphen"/>ſeth her Deliverane; Hear the Word of the Lord, ye that tremble at his Word: your brethren that hated you, that caſt you out for my Names ſake, ſaid, let the Lord be glorified, but he ſhall appear to your joy, and they ſhall be aſhamed,</hi> becauſe they were excom<g ref="char:EOLhyphen"/>municated and exiled; and reproachfully uſed, for no other rea<g ref="char:EOLhyphen"/>ſon but <hi>becauſe Gods Name was called upon them,</hi> God promiſeth to ſtir up himſelf and appear for their Redemption;
+<note place="margin">Pſal. 60.4.</note> And this promiſe you finde made good, <hi>Thou haſt given a banner to them that fear thee, that it may be diſplayed, becauſe of thy truth:</hi> Be<g ref="char:EOLhyphen"/>cauſe the people of God ſtood up for the <hi>Truth</hi> of <hi>Doctrine,</hi> and <hi>Diſcipline,</hi> for the truth of <hi>Worſhip</hi> and <hi>pure Ordinances,</hi> there<g ref="char:EOLhyphen"/>fore God gave them <hi>a banner,</hi> that is, for deliverances and victo<g ref="char:EOLhyphen"/>ries, over their Enemies, freſh and frequent occaſions of tri<g ref="char:EOLhyphen"/>umph and joy: Becauſe the <hi>truth of God was precious in their eyes,</hi> therefore <hi>their lives were precious in Gods eyes.</hi>
+               </p>
+               <p>A fourth <hi>Now</hi> of Gods <hi>riſing</hi> is, <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+                  <hi>when the Enemies grow outra<g ref="char:EOLhyphen"/>gious and unſatisfiable in cruelty,</hi> See that place, Iſa. 33.8.
+<note place="margin">Iſa. 33.8.</note> 
+                  <hi>The high waies lye waſte; the wayfaring man ceaſeth: hee hath bro<g ref="char:EOLhyphen"/>ken the covenant, he hath deſpiſed the Cities, he regardeth no man.</hi> See there how the enemie in his pride and cruelty had laid all waſte, the land before him was <hi>a Garden of Eden,</hi> Behinde him a deſolate wilderneſſe there was no <hi>pity</hi> nor <hi>humanity</hi> left in him; ſaith God it is time for me to ariſe, If I ſit ſtill, they will not leave me one that fears my Name alive to praiſe me; I will hold no longer. I <hi>will ariſe:</hi> and that you may know God is in good earneſt, he <hi>trebles</hi> it. <hi>Now</hi> will I ariſe, <hi>Now</hi> will I be exalted, <hi>Now</hi> will I lift up my ſelf.
+<note place="margin">Eſther 7.8.</note> God ſeems to ask that angry queſti<g ref="char:EOLhyphen"/>on, that <hi>Ahaſhuerus</hi> did concerning <hi>Haman. What will he force the Queen before my face?</hi> So ſaith God, What will they plun<g ref="char:EOLhyphen"/>der and burne and tear up women with childe, and daſh the childrens brains againſt the ſtones and devour all before my face, and ſhall I let them alone? Nay, <hi>I will ariſe,</hi> and cut them off in the midſt of their rage and madneſſe againſt my people.</p>
+               <p>
+                  <hi>Fifthly, <milestone type="tcpmilestone" unit="unspecified" n="5"/> God doth riſe when his Enemies daringly begin to open their mouthes in curſed plaſphemies againſt him.</hi>
+                  <note place="margin">Pſal. 74.22.</note> God uſually ſuffers it not long at their hands, therefore the Church takes that
+<pb n="24" facs="tcp:156220:17"/>hint of calling out God to her ſuccour,
+<note place="margin">Pſal. 74.22.</note> 
+                  <hi>ariſe Lord, remember how the wicked men blaſpheme thee daily,</hi> three times this Argu<g ref="char:EOLhyphen"/>ment is uſed in that Pſalm. <hi>q. d.</hi> Lord if our <hi>peace,</hi> and <hi>lives,</hi> and <hi>comforts</hi> were onely concerned in this matter, we would have held our peace; but lord thy <hi>Glory</hi> lies at ſtake, wicked men take occaſion from thy Patience and long-ſufferance <hi>to blaſ<g ref="char:EOLhyphen"/>pheme thee to thy face;</hi>
+                  <note place="margin">v. 18.</note> doſt thou not hear how the fooliſh men rail upon thy name, and reproach thee daily? And what wilt thou do for thy great Name? Oh forget it not Lord, <hi>Forget not the voice of thine Enemies:
+<note place="margin">v. 23.</note> the tumult of thoſe that riſe up againſt thee, increaſeth continually.</hi>
+               </p>
+               <p>
+                  <hi>Sixthly,</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> When he ſeeth his people <hi>in a helpleſſe condition,</hi> and if he do not <hi>riſe,</hi> they muſt of neceſſity <hi>fall,</hi> and if he do not <hi>appear</hi> they muſt <hi>periſh:
+<note place="margin">Deut. 36.32.</note> when he ſeeth their power is gone; and there is none left,</hi> and when he ſeeth they are like to be ſwal<g ref="char:EOLhyphen"/>lowed up by the devouring Enemie, then he will ariſe: <hi>Then the Lord ſhall Judge his people, and repent himſelf concerning his ſervants.</hi>
+               </p>
+               <p>Seventhly, <milestone type="tcpmilestone" unit="unspecified" n="7"/> 
+                  <hi>When God ſeeth his people deeply affected with, and afflicted for, the ſufferings of the Saints,</hi> when they lay to heart the ſorrowes and ſufferings of <hi>Zion,</hi> This is an hour when God will <hi>ariſe:
+<note place="margin">Pſal. 102.17.</note> Thou wilt ariſe and have mercy upon Zion,</hi> Why? Oh ſaith ſhe the <hi>ſet time is come,</hi> I but how knew ſhe that? She will tell you, <hi>For thy Servants take pleaſure in her ſtones, and fa<g ref="char:EOLhyphen"/>vour the duſt thereof:</hi> The prophet obſerv'd how the people of God behaved themſelves, when the Churches were in miſe<g ref="char:EOLhyphen"/>ry, he could ſee them every where wringing their hands, and mourning for Zion, crying out; alas for Zion, this is Gods be<g ref="char:EOLhyphen"/>beloved Zion, whoſe ſtones ly in the duſt, and ſhe in her blood, &amp;c. ſaith God, I can forbear no longer. If I hold my peace and do not ariſe and deliver them, theſe poore children will cry their eyes out of their head, and themſelves to death.</p>
+               <q>Now I will ariſe, &amp;c. But,</q>
+               <p>
+                  <hi>Eightly,</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> When gods people <hi>accept of their puniſhments:</hi> that is,
+<note place="margin">Levit. 26.41.</note> when under the afflictions that lie upon them, they are ſen<g ref="char:EOLhyphen"/>ſible of divine diſpleaſure;
+<note n="*" place="margin">1 King. 8.47.</note> turn in upon themſelves, labour to finde out the
+<note n="*" place="margin">Joſh. 17.17.</note> accurſed thing, the <hi>Achan</hi> that troubles Iſ<g ref="char:EOLhyphen"/>rael;
+<pb n="25" facs="tcp:156220:17"/>acknowledge the equity of Gods dealings;
+<note n="*" place="margin">Nehe. 9.33.</note> 
+                  <hi>juſtifying</hi> God and <hi>judging</hi> themſelves. Yea not the <hi>Equity</hi> onely, but the
+<note n="*" place="margin">Ezra. 9.13.</note> 
+                  <hi>moderation</hi> and <hi>indulgence</hi> of Gods proceedings, in laying the <hi>affliction</hi> farre <hi>beneath</hi> the <hi>provocation:</hi> and in conſcience of offended juſtice, labour to
+<note n="*" place="margin">Mich. 7.9.</note> ſubmit and ly down at Gods feet; ſtudy Gods meaning, and labour to anſwer his expectation; to
+<note n="*" place="margin">Mich. 6.9.</note> 
+                  <hi>hear the rod and him that ſmites:</hi> when I ſay God ſees his peo<g ref="char:EOLhyphen"/>ple in ſuch a poſture, God hath them where he would, and then ſaith God; <hi>I will remember my Covenant with Jacob,
+<note place="margin">Levit. 26.42.</note> and alſo my Covenant with Iſrael, and alſo my Covenant with Abraham will I remember: and I will remember the land.</hi> Gods <hi>remembrance</hi> is a part, a degree of Gods <hi>Riſing,</hi> when God ſaies he <hi>remem<g ref="char:EOLhyphen"/>bers</hi> and <hi>ſees</hi> the affliction of his people, it will not be long before hee <hi>march</hi> forth for their Salvation; as you ſaw before.</p>
+               <p>
+                  <hi>Ninthly,</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> When God ſeeth his people <hi>cordially and conficenti<g ref="char:EOLhyphen"/>ouſly engaging themſelves unto him in a ſure covenant</hi> to reforme their waies, and walk cloſely and humbly with their God; When they are like the <hi>Doves in the valleyes,</hi> weeping and mourning over their back-ſlidings and apoſtacies from God, and then <hi>come to joyn themſelves with God in a perpetuall Covenant,
+<note place="margin">Iſa. 63.8.</note> that ſhall not be forgotten,</hi> Now will I ariſe ſaith God, &amp;c.</p>
+               <p>
+                  <hi>Surely theſe be my people, children that will not lye. &amp;c.</hi>
+               </p>
+               <p>I ſee theſe people comming to joyne themſelves in Covenant unto me in good earneſt; they are my people, and now I will be their God: They are my people that will not <hi>lye</hi> to me, and I will be their Saviour that will not <hi>fail</hi> them; I will deli<g ref="char:EOLhyphen"/>ver them. <hi>I will be their Saviour.</hi>
+               </p>
+               <p>
+                  <hi>Tenthly,</hi> A tenth time of Gods riſing is; <milestone type="tcpmilestone" unit="unspecified" n="10"/> 
+                  <hi>When his people are preparing a place for him to reſt in: Ariſe, O Lord,</hi> cries David,
+<note place="margin">Pſal. 132.8.</note> 
+                  <hi>into thy reſting place both thou and the Ark of thy ſtrength.</hi>
+               </p>
+               <p>When the houſe and worſhip of God is fill'd with <hi>pollutions</hi> and <hi>abominations,</hi> ſuch as his ſoul hates; God withdrawes him<g ref="char:EOLhyphen"/>ſelf; You may ſee a ſad Emblem of it in <hi>Ezekiels</hi> viſion,
+<note place="margin">Eze. 20.4.</note> where God firſt removes himſelf from between the <hi>Cherubims,</hi> to the <hi>threſhold of the houſe;</hi> and from thence unto the <hi>Mountaines, &amp;c.</hi>
+                  <note place="margin">Chap. 11.24.</note> (by ſuch ſteps and degrees doth God depart from a people;)
+<pb n="26" facs="tcp:156220:18"/>and the reaſon of this departure is given, Chap. 8. where you ſhall finde with what hidden Idolatries they had fil'd the Tem<g ref="char:EOLhyphen"/>ple. Thus when there is no place for the ſoles of Gods feet to tread upon by reaſon of defilements, and pollutions in every place,
+<note place="margin">Ier. 12.7.</note> ſaith God, <hi>I have forſaken my hovſe, I have left mine Heritage.</hi>
+               </p>
+               <p>But now when the people of <hi>God</hi> ariſe, and beſtirre them<g ref="char:EOLhyphen"/>ſelves to cleanſe the <hi>Houſe</hi> of <hi>God</hi> with <hi>Hezekiah;</hi>
+                  <note place="margin">2 Chro. 29.16.</note> and <hi>to carry out all the uncleanneſſe,</hi> and to ſanctifie it according to the <hi>Lawes and Ordinances thereof;</hi> when they have made it a <hi>fit reſting place,</hi> for ſo <hi>holy a Majesty,</hi> Yea while they are <hi>doing of it</hi> with their whole heart; while they are yet upon the <hi>reſo<g ref="char:EOLhyphen"/>lution,</hi> as verſ. 3.4, 5.</p>
+               <p>Verſ. 3. <hi>Surely I will not come into the tabernacle of my houſe: nor go up into my bed.</hi>
+               </p>
+               <p>Verſ. 4. <hi>I will not give ſleep to mine eyes: or ſlumber to mine eye-lids.</hi> V. 5. <hi>Vntill I finde out a place for the Lord: an habitation for the mighty God of Jacob;</hi> I ſay while they are thus reſolving for God, they may comfortably invite, and expect Gods pre<g ref="char:EOLhyphen"/>ſence; <hi>ariſe, O Lord, into thy reſting place,</hi> and <hi>God</hi> will make his way through the midſt of his Enemies,
+<note place="margin">Verſ. 18.</note> to come and take poſſeſſion, and ſay; <hi>This is my reſt for ever, here will I dwell, for have deſired it.</hi>
+               </p>
+               <p>And thus you have the <hi>ſecond thing</hi> undertaken in this <hi>Doctrine. ſc:</hi> the <hi>Nowes,</hi> or <hi>Times,</hi> when God will <hi>Ariſe.</hi>
+               </p>
+               <p>The <hi>third</hi> thing propounded are the <hi>Reaſons.</hi>
+               </p>
+               <p>Which I will but touch upon and proceed. <label type="milestone">
+                     <seg type="milestoneunit">Reaſons. </seg>
+                  </label> 
+               </p>
+               <p>I could give you divers in reference to
+<list>
+                     <item>1. The Enemy.</item>
+                     <item>2. The Church and people of <hi>God.</hi>
+                     </item>
+                     <item>3. <hi>God</hi> himſelf.</item>
+                  </list>
+               </p>
+               <p>But that I may not be burdenſome; becauſe I have hinted ſomething already to this purpoſe on the third <hi>Doctrine;</hi> I will but point at two that reſpects <hi>God</hi> himſelf, and given by
+<pb n="27" facs="tcp:156220:18"/>
+                  <hi>God</hi> himſelf, in that, Iſa. 33.10. Now <hi>will</hi> I riſe ſaith the Lord, Now <hi>will</hi> I be <hi>exalted,</hi> Now <hi>will</hi> I <hi>lift vp my ſelf.</hi> There you have <hi>a two-fold reaſon,</hi> given <hi>in a two-fold cauſe.</hi> The <hi>moving cauſe</hi> and the <hi>finall cauſe;</hi> The moving cauſe, <hi>I will;</hi> and the <hi>finall cauſe,</hi> I will <hi>be exalted;</hi> I will <hi>lift up my ſelf.</hi> Gods <hi>will,</hi> there is the <hi>ground;</hi> Gods <hi>glory,</hi> there is the <hi>end;</hi> God will do it becauſe he will do it: The ſame <hi>good will and pleaſure of God</hi> that moved <hi>God</hi> to
+<note n="*" place="margin">Epheſ. 1.5.</note> 
+                  <hi>Elect</hi> them; the ſame <hi>good will</hi> &amp; <hi>pleaſure</hi> of his, moves him to do all his works <hi>in them</hi> &amp; <hi>for</hi> them. <hi>God will not</hi> let his people lie under the Tyranny and Crueltie of his Ene<g ref="char:EOLhyphen"/>mies for ever;
+<note n="*" place="margin">Pſal. 125.3.</note> 
+                  <hi>The rod of the wicked ſhall not rest vpon the Lot of the righteous:</hi> It may <hi>be</hi> upon them, &amp; it may <hi>lie</hi> upon them; but it ſhall not <hi>reſt</hi> upon them. <hi>God</hi> will not ſuffer wicked men to reproach his people and blaſpheme his Name for ever:
+<note place="margin">Ezek. 20.</note> I <hi>will riſe,</hi> ſaith <hi>God,</hi> I will work for my Names ſake; There I ſay is the <hi>moving Cauſe.</hi> And then,</p>
+               <p>
+                  <hi>I will be exalted;</hi> I <hi>will lift up my ſelf;</hi> All the while that <hi>God</hi> ſeemes to be ſtill, he is not known in the world, the wick<g ref="char:EOLhyphen"/>ed they begin to inſult and trample upon him, and dare him to his face, as it were, to do his worſt: <hi>Where is their God?</hi>
+                  <note place="margin">2 Pet. 3.4.</note> And <hi>where is the promiſe of his coming?</hi> And let him make ſpeed and <hi>haſten his work that we may ſee it; and let the Counſell of the Holy One of Iſrael draw nigh and come, that we may know it.</hi>
+                  <note place="margin">Iſa. 5.19.</note> Thus the Enemies do tempt and provoke <hi>God</hi> to their own deſtruction.</p>
+               <p>And truely his own people do <hi>notknow him</hi> nor <hi>magnifie</hi> him, nor <hi>ſet him up,</hi> as they ought, by <hi>ſanctifying him in their hearts,</hi> by <hi>truſting</hi> in him, and <hi>waiting</hi> for him;
+<note place="margin">Iſa. 8. Hoſea. 8.2.</note> ſo much is implyed in that promiſe: <hi>Iſrael ſhall crie unto me, My God I know thee.</hi> Iſrael had thought ſhee had known <hi>God</hi> before, but ſhe did not; Iſrael <hi>ſhall</hi> cry, My <hi>God</hi> I know thee.</p>
+               <p>Thus that <hi>God</hi> may be <hi>known</hi> in the world, both by <hi>friends</hi> and <hi>foes;</hi> that the Enemies may know him, to their <hi>Confuſion,</hi> and Iſrael may know him, to their <hi>Conſolation;</hi> That <hi>God</hi> may be <hi>Somebody</hi> in the world; <hi>God</hi> hath <hi>times</hi> to <hi>Ariſe</hi> for the reſcue and deliverance of his people:</p>
+               <q>
+                  <hi>Now will I Ariſe, Now will I be Exalted, Now will I lift up my ſelf.</hi>
+               </q>
+               <pb n="26" facs="tcp:156220:19"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="27" facs="tcp:156220:19"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="28" facs="tcp:156220:20"/>
+               <p>God will bee known to be <hi>himſelf,</hi> and all the world ſhall <hi>acknowledge</hi> it.
+<note place="margin">Num. 14, 21.</note> 
+                  <hi>All the earth ſhall be filled with the glory of God.</hi>
+               </p>
+               <p>This ſhall ſuffice to have pointed at for the Reaſons.</p>
+               <p>I ſhould come now in the fourth place, to make ſome <hi>
+                     <g ref="char:V">Ʋ</g>ſe</hi> of this; But to expedite my work, I ſhall ſtep on to the fifth <hi>Doctrine,</hi> and then we will <hi>improve</hi> them both together.</p>
+            </div>
+            <div type="part">
+               <p>The fifth Doctrine therefore is;</p>
+               <q>
+                  <hi>Gods riſing time, <label type="milestone">
+                        <seg type="milestoneunit">Doct. </seg>5</label> is the enemies flying time.</hi>
+               </q>
+               <p>Let God <hi>ariſe,</hi> and let his enemies be ſcattered, let them that hate him, flie before him.</p>
+               <p>
+                  <hi>Let us flie from the face of Iſrael,</hi>
+                  <note place="margin">Exod. 14.25.</note> cried the Egyptians, <hi>for the Lord fighteth for them, againſt the Egyptians.</hi>
+               </p>
+               <p>It muſt needs be ſo;</p>
+               <p>
+                  <hi>For God and wicked men cannot endure one another, <label type="milestone">
+                        <seg type="milestoneunit">Reaſons. </seg>
+                     </label> they hate God,</hi> as you ſee in the Text, <hi>and God
+<note n="*" place="margin">Pſal. 11.5.</note> hates them;</hi> As God once ſaid of the three wicked ſhepherds.</p>
+               <p>
+                  <hi>My.
+<note place="margin">Zach. 11.8.</note> ſoul loathed them, and their ſoul loathed me.</hi> As the proud <hi>Angel</hi> turn'd <hi>Devill,</hi> got as far from God as he could go, ſo do wicked men: There is that <hi>Antipathy</hi> between them, that cannot bear one anothers preſence; Therefore <hi>ſay they to the Almighty,
+<note place="margin">Job 21.15.</note> depart from us, for wee deſire not the knowledge of thy wayes:</hi> And if they cannot endure Gods preſence, as a <hi>Teacher,</hi> how will they endure his preſence as a <hi>Judge?</hi> If they cannot abide his preſence, as a <hi>ſin-reproving God,</hi> how will they abide it as a <hi>ſin-revenging God?</hi> Surely that <hi>preſence</hi> of God is ſo <hi>unſupportable,</hi> that you may hear them willing to ex<g ref="char:EOLhyphen"/>change it for the burden of <hi>rocks</hi> and <hi>mountains, Revel.</hi> 6.16. <hi>They ſaid to the Mountains and Rocks,
+<note place="margin">Revel. 6.16.</note> fall on us, and hide us from the face of him that ſitteth on the throne, and from the wrath of the Lamb.</hi> And as they cry to God, Depart from us, ſo God, when he ariſeth, he anſwers them in their own language, and ſpeaks to them in his wrath; <hi>Depart from mee:</hi> and this is their miſery, they have the <hi>firſt word,</hi> but God will have the <hi>laſt:
+<note place="margin">Matth. 7.23.</note> Depart from me yee workers of iniquity.</hi> Unhappy caitive that ever he was born, unto whom that ſhall bee the laſt word God will ſay, <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> 
+                  <hi>Depart from me.</hi>
+               </p>
+               <p>You will ſay perhaps, that is in the <hi>day of Judgement,</hi> when
+<pb n="29" facs="tcp:156220:20"/>Chriſt comes to reveal himſelf in <hi>flaming fire,</hi>
+                  <note place="margin">2 Theſſ. 1.7, 8.</note> rendring ven<g ref="char:EOLhyphen"/>geance on them that do not know him, &amp;c.</p>
+               <p>Truely, theſe <hi>Riſing times of God,</hi> are Gods <hi>Petty-Seſſions;</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> they bee little <hi>dayes of Judgement,</hi>
+                  <note place="margin">Pſal. 9.7.</note> wherein the <hi>Thrones being prepared for Judgement, hee will make inquiſition for bloud;</hi> for the bloud of his people, <hi>cauſeleſly,</hi>
+                  <note place="margin">Verſ. 12.</note> and <hi>cruelly</hi> ſpilt by the ene<g ref="char:EOLhyphen"/>mies; and ſurely even of theſe <hi>leſſer dayes of Judgement,</hi> the <hi>Pſalmiſt</hi> ſpeaks as well as of that laſt and <hi>great day:</hi>
+               </p>
+               <p>
+                  <hi>The ungodly ſhall not ſtand in judgement,
+<note place="margin">Pſal. 1.7.</note> nor ſinners in the con<g ref="char:EOLhyphen"/>gregation of the righteous.</hi>
+               </p>
+               <p>Gods <hi>riſing time,</hi> is their <hi>ſcattering,</hi> their <hi>flying</hi> time.</p>
+               <p>But how do the enemies of God <hi>know</hi> when God ariſeth, <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>
+                  </label> that they make ſuch haſt to flie from his preſence, <hi>Hee</hi> being <hi>the inviſible God?</hi>
+               </p>
+               <p>God makes them to perceive his <hi>riſing</hi> and approach to<g ref="char:EOLhyphen"/>wards them, ſometimes in a <hi>ſecret,</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> but alwayes in a very <hi>ſenſi<g ref="char:EOLhyphen"/>ble</hi> and <hi>terrible</hi> manner.</p>
+               <p>And that partly by ſome
+<list>
+                     <item>
+                        <hi>Inward impreſſions</hi> upon their ſpirits and conſciences.</item>
+                     <item>
+                        <hi>Outward demonſtrations,</hi> appa<g ref="char:EOLhyphen"/>rent to their ſenſes.</item>
+                  </list>
+               </p>
+               <p>Firſt, Sometime by ſome <hi>inward</hi> and <hi>ſecret impreſſions,</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>1</label> upon their ſpirits and conſciences, by ſome ſecret <hi>convictions,</hi> and <hi>ſelf-condemnations</hi> ſeizing upon their conſciences.</p>
+               <p>This being the unhappineſſe of all wicked men, and haters of God, that though they have murthered their conſciences, in re<g ref="char:EOLhyphen"/>ſpect of the <hi>inſtigative,</hi> and <hi>directive</hi> Office of conſcience, they cannot kill it in reſpect of the <hi>accuſing, condemning,</hi> and <hi>execu<g ref="char:EOLhyphen"/>ting</hi> office of conſcience. Though they have kil'd conſcience as a <hi>Preacher,</hi> they cannot kill conſcience as a <hi>Judge</hi> and <hi>executio<g ref="char:EOLhyphen"/>ner;</hi> or if they have wounded, and ſeared conſcience ſo, that it ſeems to lie dead for a time, yet this is their miſery, when <hi>God awakes, conſcience will awake too,</hi> when God <hi>ariſeth,</hi> conſci<g ref="char:EOLhyphen"/>ence <hi>revives,</hi> to take Gods part againſt them, and that in a double reference.</p>
+               <p>Firſt, In reference to their <hi>perſons;</hi> conſcience will ariſe, when God ariſeth to tell them that <hi>they</hi> are none of Gods, as
+<pb n="30" facs="tcp:156220:21"/>you ſee in <hi>Cain;</hi> conſcience began to miſgive, ſad and omi<g ref="char:EOLhyphen"/>nous forebodings there lay upon his ſpirit, that God had <hi>choſen his brother,</hi> and <hi>rejected him;</hi> conſcience began to tell him, that <hi>God hated him,</hi> and that was the ground of his <hi>malice</hi> againſt his <hi>brother,</hi> and againſt <hi>God too:</hi> And ſo it is with wicked men, the haters of God, when God ariſeth againſt them: As God gives his children ſome <hi>praelibations,</hi> and <hi>praeguſtations</hi> of his love, and of that glory to which he hath ordained them, <hi>ſealing them up to the day of redemption;</hi> ſo God gives his enemies ſome <hi>prae-apprehenſions,</hi> and <hi>fore-taſtings,</hi> ſome ſecret <hi>earneſts,</hi> and <hi>impreſſions of his wrath,</hi> and finall rejection, ſealing them as it were up to <hi>eternall perdition.</hi> Oh ſaith their conſciences, <hi>God hates me; Oh that I were above God, &amp;c.</hi>
+               </p>
+               <p>Secondly, In reference to their <hi>cauſe;</hi> they that have ſhut their eyes againſt the light, and would not be convinced by the Miniſters of <hi>God,</hi> of the wickedneſſe, and helliſhneſſe of the cauſe they undertook, <hi>when God awakes,</hi> and <hi>conſcience a<g ref="char:EOLhyphen"/>wakes,</hi> then they begin to confeſſe it: Oh ſaith <hi>Judas, I have ſinned in betraying innocent bloud;</hi> and ſo will wicked men; yea, ſo have ſome of the enemies of <hi>God</hi> been heard to confeſſe, when they have lien gaſping of the wounds they have received in the Battell; <q rend="inline">
+                     <hi>Oh we have a damn'd cauſe;</hi> Oh ſaid a poor dying wretch in the Weſt to our Souldiers, <hi>As ſoon as we ſaw you, our hearts failed us, for wee know our cauſe is damn'd.</hi>
+                  </q> There is an hand of divine <hi>truth,</hi> and <hi>juſtice</hi> in it, making good that threatning,
+<note place="margin">Iſaiah 26.11.</note> 
+                  <hi>Lord, when thine hand is lifted up, they will not ſee, but they ſhall ſee, and be aſhamed.</hi> They that will not ſee to <hi>timely repentance,</hi> ſhall ſee to <hi>finall ſhame and confuſion.</hi> In a word, this is the thing I ſay, The enemies and haters of <hi>God,</hi> may, and do, ſin away a <hi>ſin-preventing conſcience,</hi> but they can<g ref="char:EOLhyphen"/>not ſin away a <hi>ſin-condemning,</hi> a <hi>ſelf-executing conſcience;</hi> when the <hi>command</hi> cannot finde a conſcience, <hi>wrath</hi> will finde a con<g ref="char:EOLhyphen"/>ſcience, the <hi>curſe</hi> will finde a conſcience, and this will bee the <hi>worm</hi> that <hi>never</hi> dies. I have heard of a poor wretch, that li<g ref="char:EOLhyphen"/>ved an Atheiſt all his life, and when he came to die, conſcience began to revive, and he to cry out, <hi>Oh what will become of mee, if there be a God?</hi> Unhappy man is he, that ever he was born, <hi>who concludes himſelf undon, if there be a God.</hi>
+               </p>
+               <pb n="31" facs="tcp:156220:21"/>
+               <p>And thus <hi>God</hi> makes his enemies, perceive his approach, <hi>by ſome inward impreſſions</hi> upon their ſpirits.</p>
+               <p>Secondly, he makes them perceive it, <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>2</label> 
+                  <hi>by ſome outward demon<g ref="char:EOLhyphen"/>ſtrations,</hi> lyable to their very ſenſes:</p>
+               <p>As 1. <hi>By the ſtupendious acts of his power and providence,</hi> which <hi>God</hi> puts forth for his people, before their eyes; as the <hi>dividing of the Red-ſea,</hi> and <hi>cutting off the waters of Jordan, &amp;c.</hi> See what tremblings and ſhaking terrors, this cauſed in the hearts of the <hi>Canaanites, Joſh.</hi> 2.9, 10.</p>
+               <p n="2">2. By ſome <hi>ominous forerunners of wrath</hi> upon the enemies, ſometimes <hi>making them to hear the noiſe of multitudes of horſes and chariots,</hi> as hee did the Syrians, 2 <hi>Kings</hi> 7.6. Sometimes <hi>taking off their wheels, and troubling their hoaſt,</hi> as he dealt with the <hi>Egyptians</hi> in the Red-ſea; At other times, <hi>ſmiting the ene<g ref="char:EOLhyphen"/>mies with blindneſſe and madneſſe,</hi> as the <hi>Sodomites,</hi> and threat<g ref="char:EOLhyphen"/>ned, <hi>Zach.</hi> 12.4.</p>
+               <p n="3">3. Sometimes, <hi>by putting a majeſty and dreadfulneſſe on his people,</hi> Cant. 6.10. <hi>Who is ſhe that looketh forth as the morning, fair as the Moon, clear as the Sunne, and terrible as an army with banners.</hi> If ſhee bee ſo,
+<note place="margin">Pſal. 14.5.</note> when ſhe is in her <hi>nuptiall ha<g ref="char:EOLhyphen"/>bite,</hi> her brides attire; what, when in her <hi>Martiall accoutre<g ref="char:EOLhyphen"/>ments. There were they in great fear, becauſe God is in the gene<g ref="char:EOLhyphen"/>ration of the righteous.</hi> God let out ſome beam of glory upon his people, and preſently the enemy fell a trembling.</p>
+               <p n="4">4. By <hi>arming the very inanimate creatures againſt them;</hi> Sun, Moon, and Stars, fire, hail, ſtorms, tempeſt, earth, water, the whole Creation, all preſt to fight the battells of the Lord of Hoaſts.</p>
+               <p n="5">5. By <hi>raiſing the ſpirits and courage of people above them<g ref="char:EOLhyphen"/>ſelves,</hi> to Lion-like, Angel-like proweſſe, and unconquerable<g ref="char:EOLhyphen"/>neſſe of ſpirit; ſo that he that is weak among them, is as <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> who ſlew the <hi>Lion,</hi> and the <hi>Bear;</hi> and he that is as <hi>David,</hi> becomes like the <hi>Angel of God,</hi> who went out and ſlew an hun<g ref="char:EOLhyphen"/>dred fourſcore and five thouſand in one night. Surely, when the Spirit of God comes upon his people, Armies, and legions of Armies are not able to ſtand before them, as you may ſee in <hi>Jephtah, Gideon, Samſon, David,</hi> and other the Worthies of the Lord of Hoaſts they cry; <hi>Let us flee, for the Lord fights for Iſrael
+<pb n="32" facs="tcp:156220:22"/>againſt Egypt.</hi> They perceive <hi>God</hi> filling the ſpirits of his people with invincible courage, and taking their part, and betook themſelves to their heels.</p>
+               <p>
+                  <hi>Objection.</hi> But is this all the effect of <hi>Gods Riſing,</hi> that <hi>the Enemies ſhall be ſcattered onely,</hi> and his <hi>haters put to flight?</hi> ſhall they eſcape by flying?</p>
+               <p>
+                  <hi>Anſwer.</hi> No ſure; This expreſſion implies more then a bare flight; For you know in war the <hi>Routing</hi> of the Enemie is the <hi>firſt degree</hi> of their <hi>ruine;</hi> when they begin to <hi>fly</hi> they begin to <hi>fall;</hi>
+                  <note place="margin">Pſal. 18.37, 42.</note> when once they turne the back, and break their ranks, they can make no reſiſtance, and then the Armies of <hi>God,</hi> and the <hi>God</hi> of Armies purſues them, ſlaying and beating them down with a great deſtruction, as <hi>David</hi> deſcribes it. <hi>I have purſued mine Enemies, and overtaken them: neither did I turn again till they were conſumed.</hi>
+               </p>
+               <p>Verſ. 42. <hi>Then did I beat them as ſmall as duſt before the wind: I did caſt them out, as the dirt in the ſtreets.</hi> And therefore <hi>Da<g ref="char:EOLhyphen"/>vid</hi> deſires, no more but to ſee his enemies retreat and looſe ground, and begin to flie; he is then confident of the victory, Pſal.
+<note place="margin">Pſal. 9.3.</note> 9.3. <hi>When mine enemies are turned back, they ſhall fall and periſh at thy preſence.</hi> Do they fly? Nay then I am confident, they ſhall fall and never riſe again.</p>
+               <p>So that in a word,
+<note place="margin">Hab. 3.8.</note> 
+                  <hi>flying</hi> is but put <hi>Synechdochically,</hi> for their <hi>totall and finall periſhing and deſtruction,</hi> it muſt needs be ſo; for ſure they muſt fly faſt, whom <hi>God,</hi> when <hi>he rides upon his Horſes and Chariots of Salvation,</hi> cannot overtake.</p>
+               <p>I come now to the <hi>
+                     <g ref="char:V">Ʋ</g>ſe,</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe </seg>1</label> which ſhall be two-fold
+<list>
+                     <item>1. Conſolation, <hi>or,</hi> Encouragement.</item>
+                     <item>2. Exhortation, <hi>or,</hi> Engagement.</item>
+                  </list>
+               </p>
+               <p>The firſt uſe ſhall be for <hi>Comfort</hi> or <hi>Encouragement,</hi> for are theſe <hi>Gods Riſing times?</hi> and is <hi>Gods Riſing time</hi> the Enemies <hi>flying time?</hi> Then hence for our Encouragement, we may take notice what <hi>time of day</hi> it is, though as yet we cannot ſee the <hi>Sun of Righteouſneſſe fully riſen in our horizon with healing</hi> in his wings, yet we may make ſome hopefull conjecture and gveſſe, that it is <hi>about Sun-Riſing:</hi> Our <hi>God</hi> is <hi>Riſing,</hi> yea al<g ref="char:EOLhyphen"/>ready upon his <hi>March.</hi>
+               </p>
+               <pb n="33" facs="tcp:156220:22"/>
+               <p>Look over elſe all thoſe <hi>ten Nowes, or Times</hi> wherein <hi>God</hi> hath engaged himſelf to riſe for his peoples Deliverance, and tell me which of them do you finde wanting upon our Times?</p>
+               <p n="1">1. <hi>Doe not the people of God</hi> in divers places of the Kingdom (as in other parts of the Chriſtian world) <hi>ſigh and groan under their unſupportable burdens and oppreſſions?</hi>
+               </p>
+               <p>Surely the cry of the poor and needy, that are plundered and ſtript naked of their ſubſiſtence, the crie of the poor cap<g ref="char:EOLhyphen"/>tives, that are made to ſerve the luſts and cruelty of the Ene<g ref="char:EOLhyphen"/>mies of God in their own houſes; the crie of the fatherleſſe children and widdowes,
+<note place="margin">Lam. 5.9.</note> who are wandring up and down <hi>in pe<g ref="char:EOLhyphen"/>rill of their lives to ſeek, bread to relieve their ſoules, becauſe of the ſword of the wilderneſſe;</hi> the cry of violence and oppreſſion, but above all, the crie of <hi>Blood</hi> is gone up to heaven,
+<note place="margin">James 5.4. Gen. 4.10.</note> and <hi>cries in the eares of the Lord of Sabbath:</hi> For if of one righteous <hi>Abels</hi> blood God ſaid unto <hi>Cain, The voice of thy brothers blood (bloods</hi> in the <hi>Hebrew</hi>) <hi>cryeth unto me from the ground;</hi> If every drop of <hi>Abels</hi> blood had a <hi>tongue</hi> to cry to God for <hi>vengeance,</hi> then how much lowder doth the blood of more <hi>innocent perſons</hi> then <hi>Abel</hi> had <hi>drops</hi> of <hi>blood</hi> in his body, powred out in <hi>England</hi> and <hi>Ireland,</hi> like water upon the ground, crie in the eares of a righte<g ref="char:EOLhyphen"/>ous God againſt the <hi>Fratricidious,</hi> yea and <hi>Parricidious Caines</hi> of our times; <hi>Vengeance, vengeance?</hi>
+               </p>
+               <p>
+                  <hi>From heaven hath the Lord beheld the earth,
+<note place="margin">Pſa. 102.19.20. Our priſo<g ref="char:EOLhyphen"/>ners at Ox<g ref="char:EOLhyphen"/>ford.</note> even to hear the groaning of the priſoners, &amp;c.</hi> his poor hunger-ſtarved priſo<g ref="char:EOLhyphen"/>ners; many of whom have given up the ghoſt for want of bread; and others that ſurviue, forced for hunger to rake the <hi>gutters</hi> and <hi>ſinkes</hi> of their mercileſſe enemies for a little ſtink<g ref="char:EOLhyphen"/>ing food to relieve their dying ſoules.</p>
+               <p>Surely all theſe <hi>ſighs</hi> and <hi>groans</hi> have forced their way into Gods preſence long before this time, Though men do <hi>not</hi> hear, <hi>friends</hi> cannot, and <hi>Enemies</hi> will not; yet God <hi>doth</hi> and <hi>will</hi> hear from the height of his Sanctuary.</p>
+               <p>Secondly, In the mean time doth not the Enemy carry him<g ref="char:EOLhyphen"/>ſelf, <hi>as if he were more then man?</hi> Surely, <hi>They are corrupt and ſpeak wickedly concerning oppreſſion; they ſpeak loftily, they ſet their mouth againſt the heaven, and their tongue walketh through the earth.</hi>
+                  <note place="margin">Pſal. 73.9, 10.</note> They <hi>will do</hi> this, and they <hi>will do</hi> that; and they <hi>will make</hi> the
+<pb n="34" facs="tcp:156220:23"/>proudeſt of them <hi>ſtoop;</hi> Yea, have not ſome of them lately, as if they had been <hi>God,</hi> taken upon them to threaten the poor be<g ref="char:EOLhyphen"/>ſieged people of God with <hi>Eternall fire?</hi> Who yet within few houres after, as the Pſalmiſt ſpeaks, <hi>died</hi> like a man; ſlain, as it is conjectured by the hand of a <hi>childe.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> But thirdly, are not theſe enemie and haters of God <hi>grown to a ſtrange and unheard of height of cruelty!</hi> Surly, the very <hi>merceis of theſe wicked men ar cruell.</hi> Plunderings and firings, and down-right murders, are mercies with this Generation (of <hi>men</hi> ſhall I ſay? or <hi>incarnate Divels?</hi>) Oh when the ſtories of theſe <hi>Warres</hi> in <hi>Ireland</hi> and <hi>England</hi> ſhall be reported to the world, poſterity ſhall read and look pale, and be aſtoniſhed and ready to give up the Ghoſt for anguiſh of ſpirit; Yea <hi>Turkes</hi> and <hi>In<g ref="char:EOLhyphen"/>fidels</hi> ſhall <hi>hear</hi> and be <hi>aſhamed</hi> to ſee themſelves ſo <hi>out-bid</hi> in cruelty, by them that call themſelves <hi>Chriſtians,</hi> and that one upon another. The land before them is as the <hi>Garden of God,</hi> and behinde them like <hi>a deſolate Wilderneſſe.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly,</hi> And weat is the <hi>Quarrell</hi> all this while, is it not <hi>Religion</hi> and the <hi>Truth</hi> of God? The truth of <hi>Doctrine,</hi> the truth of <hi>Diſcipline,</hi> the truth of <hi>Worſhip?</hi> May not the <hi>Parliament,</hi> and the <hi>Parliaments</hi> friends crie to God; <hi>For thy names ſake, O Lord, are we killed all the day long?</hi> Surely had not the <hi>Goſpel,</hi> and the <hi>Government</hi> of Jeſus Chriſt been precious in their eyes, they might have compounded for their civill Liberties upon in<g ref="char:EOLhyphen"/>finitely cheaper termes then it hath coſt them already, and yet the Lord knows what it may coſt them more! but whatever it is, or may be, <hi>Happy England</hi> and <hi>happy they</hi> in <hi>England;</hi> that can ſay, <hi>For thy ſake, O Lord are we killed all the day long.</hi> Woe to them to whom God will ſay, when they ly gaſping of their wounds,
+<note place="margin">Ier. 2.17.</note> 
+                  <hi>Haſt thou not procured theſe things unto thy ſelf?</hi> and ſtand and <hi>laugh at your calamity and mock when your fear comes.</hi>
+                  <note place="margin">Prov. 1.26.</note>
+               </p>
+               <p>
+                  <hi>Fifthly,</hi> But in the next place, are not theſe Enemies, and ha<g ref="char:EOLhyphen"/>ters of God as <hi>Blaſphemous</hi> againſt <hi>God,</hi> as they are <hi>outragious</hi> againſt his <hi>people?</hi> You have heard of their blaſpemies, I dare not repeat them, I tremble to think of them: Their blaſphe<g ref="char:EOLhyphen"/>mous <hi>imprecations</hi> of Damnation upon themſelves, are grown now <hi>to be their hope,</hi> their oath now with many of them is, <hi>as
+<pb n="35" facs="tcp:156220:23"/>they hope to be damned;</hi> and it is nothing now with them to drink <hi>healths,</hi> to the <hi>confuſion</hi> of the <hi>Round-heads Parliament:</hi> unleſſe they may now alſo (I know not how to utter it) drink healths to the <hi>confuſion</hi> of the <hi>Round-heads God,</hi> many other blaſ<g ref="char:EOLhyphen"/>phemies I could tell you of, which the Divell may happily <hi>in<g ref="char:EOLhyphen"/>vent,</hi> but I dare ſay, he dares not <hi>vent, for he beleeves and trem<g ref="char:EOLhyphen"/>bles,</hi> neither of which theſe Belials do. <hi>Rabſhecah</hi> was <hi>a punie,</hi> and might have gone to chool to <hi>Oxford,</hi> to have <hi>learned to blaſ<g ref="char:EOLhyphen"/>pheme,</hi> of theſe monſters who have there taken <hi>many degrees</hi> in this black helliſh <hi>art:</hi> but I could wiſh they might be caſt into the pit from whence they came, that the ears of poſterity might never be <hi>defiled</hi> nor <hi>offended</hi> with the report of ſuch unheard<g ref="char:EOLhyphen"/>of curſedneſſes.</p>
+               <p>
+                  <hi>Sixthly,</hi> In the midſt of all theſe <hi>blaſphemies</hi> againſt <hi>God</hi> and violences againſt Gods people, are not, or at leſt, were not the true <hi>Proteſtant partie</hi> that cleaves to God and the Parliament <hi>brought very low?</hi> Oh <hi>how low</hi> before the beginning of this Par<g ref="char:EOLhyphen"/>liament? When the proud imperious Enemy had all the pow<g ref="char:EOLhyphen"/>er both of <hi>Common</hi> and <hi>Martiall</hi> Law in their own hands, and not a man found that durſt open his mouth againſt them, but were preſently clapt up <hi>cloſe priſoners,</hi> or ſent into <hi>baniſhment,</hi> &amp;c. How <hi>low</hi> have we been brought, and that more then once, ſince the Parliament ſate, and ſince providence hath put <hi>defenſive Armes</hi> into our hands? How oft have I ſeen men with their hands vpon their Loyns, and pains take hold of them, as upon a woman in travell? How oft have many even of our moſt diſcerning Chriſtians, given all for loſt, meditating, and preparing for flight! How oft have we concluded of our ſelves, (in fits of unbelief) as thoſe captives in Babylon,
+<note place="margin">Ezek. 37.11.</note> 
+                  <hi>Our bones are dryed, and our hope is loſt, we are cut off for our parts?</hi> The Lord pardon and <hi>helpe our vnbelief</hi> for Chriſts ſake.</p>
+               <p>
+                  <hi>Seventhly,</hi> However yet <hi>Sion</hi> and her <hi>ſtones, Jeruſalem</hi> and her <hi>afflictions,</hi> (wherewith the Lord hath afflicted her in the day of his fierce anger) findes compaſſion in the eyes and hearts of gods people; while they are ready to bring forth, not only their ſilver and gold, but have been contented to <hi>ſpend</hi> and to be <hi>ſpent,</hi> to engage ſtate, blood, lives, and whatever is dear unto them for the recovery of <hi>Zion</hi> out of the duſt; witneſſe the
+<pb n="36" facs="tcp:156220:24"/>
+                  <hi>Well-affected</hi> of this City, who have bled themſelves almoſt into a conſumption, to fill Sions veines; and witneſſe our <hi>Dear Bre<g ref="char:EOLhyphen"/>thren of Scotland,</hi> who have put their lives in their hands to <hi>come forth to the help of the Lord, to the help of the Lord againſt the mighty.</hi> What meanes all thoſe frequent dayes of humiliation, both in publike and private, that are kept in this Citie, and other parts of the Kingdome, where the <hi>Wilde bore</hi> rageth not? Doubt<g ref="char:EOLhyphen"/>leſſe either they are beſtowed upon the <hi>breaches</hi> and <hi>wounds</hi> of <hi>Sion,</hi> and Gods diſhonours, or elſe we are guilty of the deepeſt hypocriſie that ever people were; in which caſe woe, woe unto us.</p>
+               <p>
+                  <hi>Eightly,</hi> In theſe alſo, do they not profeſs <hi>to accept of the puniſh<g ref="char:EOLhyphen"/>ment of their Iniquities: Juſtifying</hi> God, <hi>judging</hi> themſelves; en<g ref="char:EOLhyphen"/>quiring into the cauſe of that fierce wrath, that ſmoakes againſt us; and labouring to quench it with their tears, wreſtling with God for grace to anſwer his expectation.</p>
+               <p>
+                  <hi>Ninthly,</hi> And have not both Nations <hi>joyned themſelves to the Lord in an everlaſting covenant, never to be forgotten?</hi>
+               </p>
+               <p>
+                  <hi>Tenthly,</hi> And is not <hi>one main deſigne</hi> in that Covenant <hi>Da<g ref="char:EOLhyphen"/>vids vow</hi> and <hi>Oath</hi> to the Lord,
+<note place="margin">Pſal. 132.2.</note> that <hi>they will not go into the taber<g ref="char:EOLhyphen"/>nacle of their houſe, nor go up into their bed, that they will not give ſleep to their eyes, nor ſlumber to their eye-lids till they have found out a place for the Lord, an habitation for the mighty God of Jacob.</hi>
+               </p>
+               <p>Surely beloved Chriſtians, if the people of God be but as cor<g ref="char:EOLhyphen"/>diall in what they do, as the Enemies of God and his Chriſt are in their deſignes; if the people of God be but as ſincere as they are <hi>buſie</hi> and <hi>active,</hi> there is not one of all theſe <hi>Nowes</hi> mark't out in Scripture for Gods <hi>Riſing</hi> to the help and ſalvation of his Church, but it is to be found upon us and our times, in a <hi>fair</hi> and <hi>Legible character.</hi>
+               </p>
+               <p>And now Noble Senators, and beloved friends, if <hi>one</hi> of theſe poſtures and <hi>conditions</hi> of the <hi>Church,</hi> or her <hi>Enemies,</hi> have been enough in former times to <hi>Raiſe God</hi> out of his holy habi<g ref="char:EOLhyphen"/>tation, to come forth for the reſcue of his bleeding languiſhing people, how much more (I pray obſerve it) how much more I ſay, when all theſe <hi>Ten</hi> ſeeme as it were by an <hi>happy conſpiracy,</hi> to <hi>meet together,</hi> and <hi>kiſſe each other</hi> in this hour of <hi>Englands
+<pb n="37" facs="tcp:156220:24"/>Temptation?</hi> may we with an awfull and humble confidence, <hi>conjecture,</hi> if not <hi>conclude,</hi> that;
+<list>
+                     <item>
+                        <hi>God is Riſen, God is Riſen:</hi> at leaſt</item>
+                     <item>
+                        <hi>God is Riſing, God is Riſing,</hi> for the help of his poor op<g ref="char:EOLhyphen"/>preſſed people in <hi>England.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>And if ſo then, as here is a word of <hi>Terror</hi> to <hi>Enemies,</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">Ʋſe. </seg>2</label> for Gods Riſing is their <hi>ſcattering,</hi> their <hi>flying</hi> time,
+<note place="margin">Terror to the Enemies.</note> ſo alſo here is a word of <hi>Exhortation</hi> to all you that are his friends, and I be<g ref="char:EOLhyphen"/>ſeech you ſuffer it.</p>
+               <p>It is the third and laſt <hi>vſe,</hi> an <hi>vſe</hi> of Exhortation.</p>
+               <p>In generall it is but this one word.
+<q>
+                     <l>If God be <hi>Riſen,</hi> or <hi>Riſing;</hi>
+                     </l>
+                     <l>Then all you that are his friends</l>
+                     <l>
+                        <hi>Do you Riſe too.</hi>
+                     </l>
+                  </q>
+               </p>
+               <p>It was the ſalutation of the Antient Chriſtians upon the Lords dayes in the morning; <hi>The Lord is Riſen,</hi> and they an<g ref="char:EOLhyphen"/>anſwered one another; <hi>The Lord is Riſen indeed,</hi> So may we ſalute and anſwer one another, The Lord is Riſen, The Lord is riſen indeed; and let us withall <hi>ſtir up</hi> and <hi>awaken</hi> one ano<g ref="char:EOLhyphen"/>ther; Let us <hi>Riſe too:</hi> by our prayers we ſay, <hi>Let God Ariſe.</hi> Now in this word of Exhortation, let me call upon you, and do you call one upon another,
+<q>
+                     <hi>Let all Gods people ariſe, &amp;c.</hi>
+                  </q>
+               </p>
+               <p>This is the Uſe in <hi>generall:</hi> But that I may not ſpeak confu<g ref="char:EOLhyphen"/>ſedly, nor give an uncertain ſound, (for then who ſhall pre<g ref="char:EOLhyphen"/>pare himſelf to battell) it craves leave to divide it ſelf into theſe <hi>Ten</hi> diſtinct <hi>Branches;</hi> whereof the two laſt, ſhall bee the two Branches of the Doctrine that yet remains untoucht, and we ſhall briefly winde up all in <hi>ten words.</hi>
+               </p>
+               <p>
+                  <hi>Firſt</hi> then, If <hi>God</hi> be <hi>Riſen,</hi> then let us <hi>Riſe in our Obſerva<g ref="char:EOLhyphen"/>tions,</hi> take notice what God is <hi>doing in the World,</hi> and take no<g ref="char:EOLhyphen"/>tice what God is <hi>doing here in England:</hi> For ſhame Sirs, let not God <hi>ariſe,</hi> and we lie <hi>ſleeping</hi> in the bed of <hi>ſecurity,</hi> and ſupine <hi>inadvertency.</hi> Awake <hi>Barak,</hi> awake thou ſonne of <hi>Abinoam;</hi> Awake Chriſtians, and obſerve diligently what God is doing, either <hi>with</hi> us, or <hi>for</hi> us.</p>
+               <p>It is that word which God himſelf cauſes to bee pro<g ref="char:EOLhyphen"/>claimed before him, when hee ſtirres up himſelf for the help
+<pb n="30" facs="tcp:156220:25"/>of his Church.
+<note place="margin">Zach. 2.13.</note> 
+                  <hi>Bee ſilent all fleſh before the Lord, for the Lord is raiſed up, out of his holy habitation. Silence</hi> is the <hi>note,</hi> or <hi>po<g ref="char:EOLhyphen"/>ſture,</hi> of exact &amp; diligent <hi>attention;</hi> And this God expects from all the <hi>World, Be ſilent, oh all fleſh;</hi> much more from his <hi>own people,</hi> when hee is riſen out of his Sanctuary, and gone forth for their Redemption; as if he ſhould ſay, <hi>Peace, be quiet, ſtand ſtill, and behold the ſalvation of the Lord;</hi> Obſerve diligently what God is doing.</p>
+               <p>How elſe ſhall wee bee able to pray? As one ſayes of Preachers, they ſhould take their Text from Gods works, ob<g ref="char:EOLhyphen"/>ſerve what God is doing, and Preach upon that; So I may ſay to Chriſtians, You ſhould make Gods works abroad in the World, the ſubject of your <hi>Prayers,</hi> and <hi>Prayſes</hi> at home; obſerve what God is doing, and <hi>pray</hi> upon it.</p>
+               <p>An <hi>Inadvertent</hi> Chriſtian, is an <hi>unpraying</hi> Chriſtian.</p>
+               <p>How elſe ſhall you be able to <hi>know</hi> the Lord, if you obſerve him not?
+<note place="margin">Iſal. 9.16.</note> 
+                  <hi>The Lord is known by the judgements which he execu<g ref="char:EOLhyphen"/>teth:</hi> An <hi>unobſervant</hi> Chriſtian, is an <hi>ignorant</hi> Chriſtian. <hi>Who ſo is wiſe,
+<note place="margin">Pſal. 107.1.</note> and will obſerve theſe things, they ſhall underſtand the loving kindneſſe of the Lord.</hi> The Prophet had been diſcourſing of the works of Providence all the Pſalm through, and builds two Concluſions upon the Premiſſes.</p>
+               <list>
+                  <item>Firſt, <hi>That it is a point of ſpeciall wiſdome, to obſerve what God doth in the various and wonderfull dispenſations of his pro<g ref="char:EOLhyphen"/>vidence:</hi> Who ſo is wiſe, will obſerve, &amp;c. <hi>An unobſer<g ref="char:EOLhyphen"/>ving man, or woman is a fool.</hi>
+                  </item>
+                  <item>Secondly, <hi>That this obſervation. is the next way to grow into the acquaintance with God, and the knowledge of his loving kindneſſe:</hi> For,</item>
+               </list>
+               <p>By this means, you may come to ſee all the Attributes of God; his Wiſdome, Power, Goodneſſe, Juſtice, Unchange<g ref="char:EOLhyphen"/>ableneſſe ſhining forth in the wonderfull, and miraculous de<g ref="char:EOLhyphen"/>liverances of his Church, and the ſtupendious deſtructions of the Enemies thereof.</p>
+               <p>By this means, you may come to bee acquainted with the <hi>faithfulneſſe</hi> of God, in <hi>making good the promiſes.</hi>
+               </p>
+               <p>And by this means, you may come to bee acquainted with Gods <hi>love to you,</hi> in the <hi>anſwers and returns of your prayers.</hi>
+                  <pb n="31" facs="tcp:156220:25"/>Wherefore, ſince ſo much of <hi>Gods glory,</hi> and <hi>your comfort,</hi> is bound up in this duty, let it be a mighty awakening call to your ſpirits, to <hi>ariſe in your obſervations.</hi>
+               </p>
+               <p>Secondly, O ye people of God, <hi>riſe in your faith;</hi> Is <hi>God up,</hi> 
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> and ſhall our <hi>faith</hi> be <hi>down?</hi> Is <hi>God riſen</hi> out of his holy habi<g ref="char:EOLhyphen"/>tation, and ſhall our <hi>faith</hi> lie in <hi>bed?</hi> What a ſhame is it for Chriſtians, not to beleeve God further then we ſee him! What a ſad thing, that after ſo many cleer diſcoveries of God, in his word, and works, we ſhould not to this day, <hi>have faith enough to carry us from one miracle to another;</hi> to bee toſſed up and down in our hopes, as if God were one day upon his <hi>Throne,</hi> and the other day upon the <hi>threſhold.</hi> Chriſtians, let not the ſhield of faith hang by the walls any longer. Behold, the plots and conſpiracies of your Enemies ſhall be given up to the hands of your faith, there ſhall all your enemies be impriſoned, more then in ſtrong-holds, and fenced Cities. Let your faith bee fet<g ref="char:EOLhyphen"/>ters, and priſons to your adverſaries. Do but ſtudy and obſerve what faith hath done, and what Victories it hath been crowned withall in all Ages; and your hands ſhall be ſtrong: <hi>God crowns faith,</hi> becauſe <hi>faith crowns God.</hi> God loves faith above all other Graces, becauſe if <hi>God put a crown</hi> upon it,
+<note place="margin">Pſal. 115.1.</note> the modeſty of faith will come and lay it down at <hi>Gods</hi> feet; <hi>Not unto us, O Lord, not unto us, but to thy Name give the praiſe.</hi> Why ſhould your hearts fail you: It is an awakening word, and remember it, I beſeech you: <hi>As for God his way is perfect,
+<note place="margin">Pſal. 18.30.</note> hee is a buckler to all that truſt in him: q. d.</hi> Follow God in the way of his <hi>pro<g ref="char:EOLhyphen"/>miſes,</hi> and <hi>providence,</hi> and you ſhall finde no <hi>crooked turning</hi> in it from one end to another; you ſhal not finde <hi>God</hi> ſtepping <hi>one foot awry; The word of the Lord is tried;</hi> there be millions of Saints that have tried it in all ages, and will be ready to bring in their <hi>letters-teſtimoniall</hi> for the truth of it; <hi>Hee is a buckler to all thoſe that put their truſt in him;</hi> Hee hath been <hi>Armour of proof</hi> to all thoſe that have truſted in his protection, which hath rendred them <hi>invulnerable, invincible,</hi> againſt all the Gun-ſhot and Ar<g ref="char:EOLhyphen"/>tillery of men and devills. There is not a man to be found that can ſay, <hi>I have truſted in God and hee deceived me;</hi> no ſaith <hi>Da<g ref="char:EOLhyphen"/>vid, Thou never faileſt them that ſeek thee.</hi>
+                  <note place="margin">Pſal. 9.10.</note> The ſumme is thus much; <hi>You may trug God if you will and be ſafe; if not, ſecure your ſelves better where you can.</hi>
+               </p>
+               <pb n="40" facs="tcp:156220:26"/>
+               <p>Sirs, I beſeech you, after ſo much experience of <hi>God,</hi> both <hi>others,</hi> and <hi>our own,</hi> let not <hi>God</hi> have cauſe to complain of us, as once of that people in the Wilderneſſe;
+<note place="margin">Numb. 14.11.</note> 
+                  <hi>How long will this people provoke mee, and how long will it be ere they beleeve mee, for all the ſignes which I have ſhewed among them?</hi> If after all this, <hi>England</hi> ſhould periſh, which <hi>God</hi> forbid, this ſhall bee our Epitaph.</p>
+               <q>
+                  <l>
+                     <note place="margin">Matth. 13. ult.</note>
+                     <hi>Hee could not do many mighty works there, becauſe of their vnbelief.</hi>
+                  </l>
+                  <l>
+                     <hi>Riſe</hi> therefore in your faith.</l>
+               </q>
+               <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                  <hi>Riſe in your courage, and reſolution,</hi> for behold, <hi>God is riſen,</hi> and ſeems to encourage us, as once his Iſrael; <hi>Fear not thou worm Jacob,
+<note place="margin">Iſaiah 41.14.</note> &amp;c.</hi> What can bee more <hi>inconſiderable</hi> then <hi>a worm?</hi> and yet fear not thou worm <hi>Jacob;</hi> fear not thou worm <hi>England:</hi> A <hi>Worm,</hi> and a <hi>God</hi> ſhall be hard enough for all the World. <hi>Thou ſhalt threſh the mountains, and beat them ſmall, and ſhalt make the hils as chaffe.</hi> It is ſtrange work that a <hi>Worm</hi> ſhall make with the <hi>Mountains,</hi> when God ſtands by it.</p>
+               <p>It is the charge that God gives to all his <hi>Worthies,</hi> and <hi>Commanders,</hi> when they go out <hi>to Battell;</hi> this is the <hi>Word (FEAR NOT)</hi> And indeed Brethren, what is there in the Enemy, that we ſhould fear? Why ſhould we <hi>fear them,</hi> that <hi>fear not God?</hi> Their <hi>cauſe</hi> is <hi>damn'd,</hi> there <hi>conſciences</hi> are <hi>damn'd;</hi> Do you not hear how they rave for their own damnation; their <hi>power,</hi> and <hi>policie,</hi> their <hi>combinations,</hi> and all their <hi>prepara<g ref="char:EOLhyphen"/>tions</hi> cannot ſtand before you: See them all ſufficiently jeered, by the people of God:
+<note place="margin">Iſaiah 8.9.</note> 
+                  <hi>Aſſociate your ſelves, O ye people, and ye ſhall be broken in pieces, and give ear all ye of farre Countreys, gird your ſelves, and yee ſhall be broken in pieces; gird your ſelves, and yee ſhall bee broken in pieces,</hi> why? how comes it to paſſe that they are ſo contemptible? the reaſon is given <hi>verſe</hi> 10. <hi>Imma<g ref="char:EOLhyphen"/>nuel, for God is with us,</hi> God is <hi>Riſen, fear</hi> them not: Truely all the <hi>counſels,</hi> and <hi>conſpiracies,</hi> and <hi>tumult,</hi> and <hi>rage,</hi> of the enemies, are no more, then if you ſhould ſee <hi>a mad man ſtand upon his head, and ſhake his heels againſt the Sun.</hi>
+               </p>
+               <p>
+                  <hi>Courage, courage,</hi> Noble Senators, Worthy Commanders, courage Chriſtians, God is <hi>riſen,</hi> and Gods <hi>riſing time,</hi> ſhall bee their <hi>ſcattering,</hi>
+                  <note place="margin">Pſal. 2.</note> their <hi>flying time;</hi> Then ſhall hee <hi>ſpeak to them
+<pb n="41" facs="tcp:156220:26"/>in his wrath, and vex them in his ſore diſpleaſure,</hi> and make the proudeſt of them know that he hath ſet <hi>his Chriſt King upon his Holy Hill:</hi>
+               </p>
+               <p>Alas what is the <hi>Chaſſe</hi> and the <hi>ſmoake</hi> when the <hi>winde riſeth,</hi> what the clouds when the <hi>Sun riſeth?</hi> What <hi>wax</hi> and <hi>ſtubble,</hi> When the <hi>fire</hi> riſeth? Behold, <hi>as ſmoake is driven away,</hi>
+                  <note place="margin">Pſal. 68.2.</note> ſo the haters of God ſhall be driven away; <hi>as the wax melteth before the fire, ſo the wicked ſhall periſh at the preſence of God.</hi> Ariſe in your courage, and the Lord ſhall make good that pro<g ref="char:EOLhyphen"/>pheſie, <hi>Behold, the people ſhall riſe up as a great Lion,
+<note place="margin">Numb. 23.24.</note> and lift up himſelf as a young Lion; he ſhall not lie down till he eat of the prey, and drink of the blood of the ſlain.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly,</hi> If God be Riſen, <hi>Riſe in your zeal,</hi> riſe in your zeal. A patcht pie'ct reformation will not anſwer Gods ex<g ref="char:EOLhyphen"/>pectation; <hi>Moſes</hi> reſolution was worthy your Imitation, <hi>we will not leave an Hoof behinde us.</hi>
+                  <note place="margin">Exod. 10.25.</note> In the building of the Temple there was not a <hi>board</hi> or a <hi>pin</hi> or a <hi>nail</hi> of the <hi>old Tabernacle</hi> vſed.</p>
+               <p>The Churches Reformation is called the <hi>New-heaven,</hi> and the <hi>New-earth,</hi> as for <hi>difficultie,</hi> ſo for <hi>beauty</hi> and <hi>perfection:</hi> Wor<g ref="char:EOLhyphen"/>thy Senators, remember that caution of the Apoſtle;
+<note place="margin">Gal. 4.18.</note> 
+                  <hi>It is good to be zealouſly affected alwaies in a good thing:</hi> if ever any <hi>work</hi> was worth your zeal, the work you have in hand is; Riſe in your zeal; <hi>zeal is good in a good cauſe.</hi>
+               </p>
+               <p>Fifthly, <hi>Riſe in your bounty,</hi> you have done <hi>much,</hi> do <hi>more;</hi> you have gone <hi>high,</hi> goe <hi>higher</hi> ſtill; Say as <hi>David, I will be more vile, &amp;c.</hi> So you, I will be yet <hi>more liberall,</hi> I will be yet <hi>more for God,</hi> Away with thoſe <hi>ſhifts</hi> and carnall <hi>pretences (what ſhall I leave for my wife and children)</hi> I have ſo much <hi>owing me, and cannot get in my debts: trading is not as it hath been; I am out thus much already;</hi> They are (for the moſt part) but the Churles Inſtruments of which the Holy Ghoſt ſpeaketh.
+<note place="margin">Iſa. 32.2.</note> 
+                  <hi>The Inſtru<g ref="char:EOLhyphen"/>ments of the Churle are cruell, he deviſeth wicked deviſes to deſtroy the poor with lying words.</hi> Hear this Oh ye <hi>covetous Mammo<g ref="char:EOLhyphen"/>niſts,</hi> who withold your money and eſtates, when it is in the power of your hands to help, to help the Lord and the King<g ref="char:EOLhyphen"/>dom, againſt the mighty; The holy Ghoſt puts you amongſt <hi>Theeves</hi> and <hi>Murderers;</hi> you are liſted among the <hi>Anti-chriſtian
+<pb n="42" facs="tcp:156220:27"/>Enemies</hi> of Jeſus Chriſt who <hi>deſtroy his poore people:</hi> he that doth not <hi>ſave life</hi> when he may, <hi>deſtroics</hi> it: While in the mean time, of the willing people hear what God ſpeaks: <hi>But the li<g ref="char:EOLhyphen"/>berall man deviſeth liberall things:</hi> he deviſeth how he may ſerve the Cavſe, he ſtudies which way he may do moſt good: You would think that were the next way to be undone, but mark what followes, <hi>by liberall things he ſhall ſtand, &amp;c.</hi> Chriſtians be of good cheere, you that have been <hi>liberall</hi> to the Cauſe, even not onely <hi>to your power,</hi>
+                  <note place="margin">2. Cor. 8.3.</note> but <hi>beyond your power;</hi> This is not the way to <hi>undoe</hi> your families, but to <hi>preſerve</hi> them, <hi>by liberall things ſhall England ſtand,</hi> by <hi>liberall things ſhall London stand,</hi> be of good cheere, who ever thou art that haſt <hi>ſpent thy ſelf</hi> for God and his Cauſe, you have not onely <hi>the publike faith of the King<g ref="char:EOLhyphen"/>dome</hi> but the <hi>publike faith of Heaven alſo,</hi> for repaiment with advantage <hi>(by liberall things he ſhall ſtand)</hi> time may come, when what thou haſt lent to Chriſt and his Cauſe, may be all the livelyhood for thee and thy family to ſubſiſt on: when the reſt may bee plundered or burnt or taken away by violence, this may be thy ſtocke; and behold then it ſhall not repent thee of thy <hi>Liberality.</hi> If the Parliament ſhould never pay us a far<g ref="char:EOLhyphen"/>thing, yet if all that <hi>God is worth</hi> in heaven or earth, be able to make thee ſatisfaction, thou ſhalt not be a looſer by thy bounty, And truly if God by this Parliament will give us but a <hi>Refor<g ref="char:EOLhyphen"/>mation,</hi> a <hi>through</hi> and <hi>ſetled Reformation,</hi> theſe Worthies will not die in our debts; yea though we ſhould not live to ſee it, yet if our <hi>little ones,</hi> may be brought into that <hi>good land,</hi> we ſhall have no cauſe to repent of our bargain: I pray God, while the poore well-affected inherit the <hi>Praiſe</hi> with the <hi>poore Widow,</hi> ſome rich <hi>covetous Mammoniſts</hi> do not carry away the <hi>curſe</hi> with <hi>Meroz;</hi> If you would not, <hi>Riſe in your bounty.</hi>
+               </p>
+               <p>Sixthly, <hi>Let us Riſe in our Patience;</hi> we think perhaps we have <hi>waited long,</hi> and yet our deliverance comes not; but if God will have us wait <hi>longer,</hi> and <hi>longer yet,</hi> let us remember, we wait not ſo long <hi>on God,</hi> as God hath waited <hi>on us:</hi> and if we have put God to <hi>his How-longs?</hi> It is but a juſt and eaſie cen<g ref="char:EOLhyphen"/>ſure if God put us to our <hi>How-longs?</hi> And yet beleeve it Criſti<g ref="char:EOLhyphen"/>ans,
+<note place="margin">Ier. 30.18.</note> this preſent time we do not ſo much <hi>waite for God,</hi> as <hi>God waites for us. The Lord waits to be gracious.</hi> The Lord doth but
+<pb n="43" facs="tcp:156220:27"/>waite for our <hi>faith,</hi> and our <hi>humiliation,</hi> and our <hi>reall Refor<g ref="char:EOLhyphen"/>mation;</hi> were <hi>we fit for it,</hi> Deliverance ſhould not tarry an hour longer. Let us not make <hi>more haſte</hi> out of our troubles, <hi>then good ſpeed;</hi> but remember who hath ſaid,
+<note place="margin">Lam. 3.26.</note> 
+                  <hi>It is good that a man ſhould both hope, and quietly wait for the ſalvation of the Lord,</hi> It is good for a <hi>man,</hi> and it is good for a <hi>Nation,</hi> it is for a <hi>people</hi> to wait quietly for the ſalvation of the Lord; ſo did <hi>Jacob</hi> till his very <hi>dying day,</hi> on <hi>his death-bed</hi> he could ſay,
+<note place="margin">Gene. 49.18.</note> 
+                  <hi>I have wai<g ref="char:EOLhyphen"/>ted for thy ſalvation, O Lord,</hi> we ſay it is <hi>good to be delivered,</hi> it is <hi>good to have peace;</hi> it were <hi>good to have our trading again,</hi> I but what ſaith God? It is <hi>good to waite,</hi> it is <hi>good to bear the yoke,</hi> it is <hi>good to put ones mouth in the duſt, if ſo be there may be hope:</hi>
+               </p>
+               <p>It is ſo indeed, and a <hi>good reaſon</hi> is given of it, Verſ. 25.</p>
+               <p>
+                  <hi>The Lord is good to them that wait for him, to the ſoul that ſeek<g ref="char:EOLhyphen"/>eth him,</hi> That is, The Lord is better to ſuch a people then <hi>victory;</hi> The Lord is better then <hi>peace;</hi> The Lord is better then <hi>tra<g ref="char:EOLhyphen"/>ding,</hi> &amp;c. The Lord is better to ſuch a ſoul then a <hi>cure,</hi> if they be ſick; Then <hi>enlargement,</hi> if in priſon; then a <hi>Ranſome,</hi> if in the <hi>Enemies hand;</hi> better then a <hi>Deliverance,</hi> be they under <hi>what affliction ſoever.</hi> Oh friends, that you would ſtudy this Text! that you knew <hi>experimentally</hi> this truth! Yea, Oh if you would but <hi>ſtudie</hi> to know it! truly well may the <hi>Lord himſelf</hi> be better, for even <hi>a waiting frame of heart it ſelf</hi> is better then any of theſe; for all theſe are but <hi>gifts, a waiting frame of ſpirit is a grace;</hi> a people or perſon may have all theſe deliverances <hi>and periſh,</hi> never ſee Gods face; but there is none that poſſeſſeth ſuch a frame of Spirit, but he hath <hi>God to be his portion:</hi> it ſprang from the fountain of <hi>Gods ſpeciall love</hi> in Chriſt, and it will <hi>car<g ref="char:EOLhyphen"/>ry</hi> the ſoul back <hi>thither</hi> again.</p>
+               <p>And therefore remember that counſell of the Apoſtle,
+<note place="margin">Iam. 1.4.</note> 
+                  <hi>Let pa<g ref="char:EOLhyphen"/>tience have her perfect work.</hi> There is a <hi>work</hi> of patience; and there is a <hi>perfect work:</hi> for to ſtay and waite a yeer or two for a deliverance, is a <hi>work</hi> of <hi>patience,</hi> to bear ſmall trialls, and great trials is a <hi>work</hi> of <hi>patience,</hi> but to bear the <hi>greateſt</hi> trials, and to bear them as long as God will have them lie;
+<note place="margin">Chap. 5.7, 8.</note> 
+                  <hi>to waite patiently till the coming of the Lord, (i. e.)</hi> till he come, and bring with him the mercie and Salvation, prayed for, and waited for, this
+<pb n="44" facs="tcp:156220:28"/>is a <hi>work</hi> and a <hi>perfect work of patience.</hi> The Lord give us this, and it will be the greateſt kindneſſe that God can do for us.</p>
+               <p>Well, ſtudy it, pray for it; that as the <hi>trialls</hi> ſhall <hi>ariſe,</hi> ſo our <hi>patience</hi> may <hi>ariſe alſo:</hi>
+                  <note place="margin">Pſal. 27. vlt.</note> Let us be often renewing <hi>Davids</hi> charge upon our ſoules. <hi>Wait thou on the Lord, be of good courage and he ſhall ſtrengthen thy heart, wait I ſay on the Lord.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Riſe in your patience.</head>
+               <p>Seventhly, <hi>Riſe in your mutuall love one towards another;</hi> God is Riſen up <hi>against our Enemies,</hi> ſhall we <hi>riſe up one againſt ano<g ref="char:EOLhyphen"/>ther?</hi> God forbid: Hear the Apoſtle;</p>
+               <p>
+                  <hi>If ye bite and devour one another,
+<note place="margin">Gal. 5.15.</note> take beed ye not conſumed one of another.</hi> Truly friends, it were better the <hi>Cavaleeres ſhould deſtroy us,</hi> then ever it ſhould be reported abroad in the world, that <hi>praying Chriſtians did deſtroy and devour one another: it would be leſſe ſcandall and reproach to Chriſt and his Go<g ref="char:EOLhyphen"/>ſpell.</hi>
+               </p>
+               <p>
+                  <hi>For the diviſions of Reuben there are great thoughts of heart;</hi> for the <hi>diviſions</hi> of <hi>London,</hi> and the <hi>Miniſters</hi> and <hi>profeſſors</hi> in <hi>London,</hi> and elſewhere, are great <hi>ſearchings of heart;</hi> I profeſſe to you Sirs, I fear them more, then I do all the power and policie of the blaſphemous Enemie; Yea, I know they promiſe them<g ref="char:EOLhyphen"/>ſelves more <hi>from our diviſions;</hi> then they do <hi>from all</hi> their <hi>own combinations.</hi> Let us ſtudy I beſeech you to diſappoint and baf<g ref="char:EOLhyphen"/>fle their expectations. To that end hear the Apoſtle moſt pathe<g ref="char:EOLhyphen"/>tically wooing of you,
+<note place="margin">Phil. 2.1, 2.</note> 
+                  <hi>If there be any conſolation in Chriſt, if any comfort of love; if any fellowſhip of the ſpirit, if any bow<g ref="char:EOLhyphen"/>els, and mercies; Fulfill ye my joy, that ye be like minded, having the ſame love, being of one accord, of one mind.</hi> If you cannot hit it to be of one <hi>minde,</hi> yet I beſeech you labour to be of <hi>one heart:</hi> why ſhould we not?</p>
+               <p>
+                  <hi>One body,</hi> one <hi>Spirit,</hi> one <hi>Hope,</hi> one <hi>Faith,</hi> one <hi>Lord,</hi> one <hi>Baptiſme,</hi>
+                  <note place="margin">Epheſ 4.4, 5, 6.</note> one <hi>God,</hi> one <hi>Father</hi> of all, who is <hi>above</hi> all, <hi>through</hi> all, <hi>in</hi> all; yea (at this preſent) One common Anti-chriſtian <hi>Enemie;</hi> One <hi>Cauſe,</hi> one <hi>ende,</hi> are not here <hi>Ones</hi> enough to make us <hi>one</hi> too? I remember a ſad complaint of <hi>Auguſtine,</hi> of the Chriſtians of his time; and we are ſo unhappy as to revive it: <hi>The Heathen</hi> (ſaith he) <hi>have many gods, and falſe Gods, and
+<pb n="45" facs="tcp:156220:28"/>yet they can agree, but Chriſtians have but one God, and the trve. God, and they fall together by the eares.</hi> This was his Lamenta<g ref="char:EOLhyphen"/>tion, and this may be our Lamentation. Chriſtians, you that love the peace and welfare of <hi>Sion,</hi> labour to be <hi>healers</hi> of theſe <hi>breaches;</hi> while too too many make it their deſigne to caſt on <hi>ayle,</hi> (and I know from whence they are ſet on work, even from <hi>Hell</hi> and <hi>Oxford</hi>) make it your buſineſſe to caſt <hi>water</hi> on theſe coales, leaſt at length they break out into <hi>devouring-flames</hi> and there be none to quench them. At leaſt, if the multitude ſhould be ſo mad as to foment their own ruine, yet let the lea<g ref="char:EOLhyphen"/>ders of the people <hi>ſtudie to preſerve the unity of the ſpirit, in the bond of peace:</hi> Oh that thoſe <hi>Caeleſtiall Luminaries,</hi> that ſhine upon inferiour bodies, with ſo ſweet and enlivening influence, ſhould look upon one another ſometime with <hi>a Malignant aſ<g ref="char:EOLhyphen"/>pect.</hi> I could be contented with all my ſoul, to give the beſt blood that runs next my heart, for the reconciling of theſe <hi>un<g ref="char:EOLhyphen"/>comely, unnaturall,</hi> (I had almoſt ſaid <hi>unneceſſary</hi> differences among Brethren, were it not to widen that diſtance, I would compoſe) But there is <hi>better blood</hi> paid for this purchaſe al<g ref="char:EOLhyphen"/>ready, <hi>infinitely better</hi> blood, and my prayer and hope ſhall be that that <hi>blood</hi> which hath been effectuall to the <hi>Reconciling</hi> of us, <hi>to God the Father,</hi> may be <hi>efficacious</hi> alſo <hi>to reconcile us one to another, till we come into the unity of Faith, and of the know<g ref="char:EOLhyphen"/>ledge of the Son of God, unto the perfect man, unto the meaſure of the ſtature of the fulneſſe of Chriſt.</hi>
+               </p>
+               <p>Well. <hi>Ariſe in Love.</hi>
+               </p>
+               <p>Eightly, <hi>Ariſe in Holineſſe:</hi> Our <hi>Holy</hi> God <hi>is Riſen</hi> let us ariſe in Holineſſe; let us labour <hi>to be holy as he is holy;</hi>
+                  <note place="margin">1 Pet. 1.15.</note> that an <hi>Holy God</hi> may finde us an <hi>holy people</hi> and take delight to walk in the midſt of us: and <hi>may not be aſhamed to be called our God;</hi>
+                  <note place="margin">Heb. 11.16.</note> we have contented our ſelves long enough with <hi>Formes, Formes</hi> of prayer, and formes of duties, and
+<note n="*" place="margin">Rom. 2.20.</note> 
+                  <hi>formes</hi> of knowledge, and a
+<note n="*" place="margin">2 Tim. 1.5.</note> 
+                  <hi>forme</hi> of Godlineſſe: Let us now labour for the <hi>power of God<g ref="char:EOLhyphen"/>lineſſe;</hi> To be Chriſtians in good earneſt, not in <hi>word</hi> only but in the <hi>purity</hi> and the <hi>power</hi> of the Goſpel of Jeſus Chriſt.</p>
+               <p>
+                  <hi>Add to your faith, vertue, and to your vertue knowledge, and to your knowledge, temperance;
+<note place="margin">2 Pet. 1.5, 6, 7.</note> and to your temperance patience, and to patience, godlineſſe; and to godlineſſe, brotherly
+<pb n="46" facs="tcp:156220:29"/>kindneſſe, and to brotherly kindneſſe, charity.</hi> Chriſtians, ſtudy <hi>your additions,</hi> be ſtill <hi>adding duty, to duty;</hi> one <hi>grace</hi> to <hi>another;</hi> one <hi>degree</hi> of grace to <hi>another,</hi> and the <hi>exerciſe</hi> of one grace to another.</p>
+               <p>Content not your ſelves with your former <hi>ſtints</hi> in profeſſi<g ref="char:EOLhyphen"/>on, and with your wonted <hi>formes</hi> of godlineſſe; get <hi>Pauls</hi> am<g ref="char:EOLhyphen"/>bition;
+<note place="margin">Pſal. 3.13.</note> 
+                  <hi>I forget the things that are behinde, and I preſſe forward toward the mark of the high calling of God in Chriſt Jeſus.
+<note place="margin">Verſe 11.</note> If by any meanes I might attain to the reſurrection of the dead.</hi> He knew there would bee <hi>perfection</hi> in the <hi>Reſurrection,</hi> and if it were poſſible hee would fain have attained to it on <hi>this ſide the grave;</hi> hee knew there was ſtill more to be attained unto then he <hi>had attained,</hi> and therefore <hi>hee preſt forward</hi> ſtill, ſtriving to bee as holy as the condition of mortality was capable of. <hi>O let the ſame minde be in you, as was in Paul:</hi> I tell you, <hi>our grace</hi> is not <hi>ſufficient</hi> for the <hi>the times wee live in</hi> already; wee are not <hi>godly</hi> enough, for the <hi>deliverances</hi> wee have had already; nor for the <hi>Ordinances</hi> which we now enjoy. You call for <hi>purer Ordinan<g ref="char:EOLhyphen"/>ces,</hi> and <hi>more refined Congregations,</hi> when as alas, your holineſſe is not high enough for the preſent; and how then will you hold out with a pure and perfect reformation: I tell you, if you have purer Ordinances; and more powerfull Preaching, and if you do not labour for <hi>holineſſe proportionable,</hi> your condition will be far worſe then ever it was; if God give you <hi>new hea<g ref="char:EOLhyphen"/>vens,</hi> and a <hi>new earth,</hi> and you get not <hi>new hearts,</hi> you are un<g ref="char:EOLhyphen"/>done.</p>
+               <p>Ninthly, <hi>Let us Riſe in prayer;</hi> Our <hi>God is riſen,</hi> and hath done great things for us, whereof wee are glad. Let us follow him with <hi>Jacob-like importunity,</hi> and reſolve <hi>not to let him go, till he bleſſe us;</hi> till he bleſſe us with the <hi>perfecting</hi> of the work he hath begun <hi>in</hi> us, and <hi>for</hi> us: We have <hi>prayed,</hi> let us pray yet <hi>oftner, longer, lowder;</hi> let us <hi>beſiege heaven</hi> with our prayers, and <hi>take it by violence.</hi> Let us carry our ſelves ſo (with holy reverence be it ſpoken) that God may never look to have an houres <hi>reſt,</hi> till hee <hi>give reſt</hi> to <hi>Sion:
+<note n="*" place="margin">Vis iſta non ingrata eſt Deo, ſed vehementer accepta. Berh.</note> With ſuch violence, God is well pleaſed.</hi>
+               </p>
+               <p>I have certainly obſerved a fault among Chriſtians; and that is, when they obſerve <hi>a mercy comming,</hi> they begin to <hi>withdraw
+<pb n="47" facs="tcp:156220:29"/>prayer,</hi> and cool in their fervencie and importunity. I wiſh from my ſoul, this may not be the fruit of the Victories which <hi>God</hi> hath lately given us in <hi>Cheſhire,</hi> in the <hi>North,</hi> in the <hi>Weſt,</hi> &amp;c. whereas Chriſtians ſhould then double their importunity, and with their Saviour, <hi>pray yet more fervently.</hi> The behaviour of the Saints in this Kinde is very obſerveable, towards the end of the 70. yeeres <hi>Captivity</hi> in <hi>Babylon,</hi> when one would have thought that the ſtrength of <hi>the Spirit of propheſie</hi> that began then to ſtir in thoſe times would have <hi>delivered</hi> the Jewes alone out of thoſe <hi>throwes</hi> and <hi>panges,</hi> without the help of prayer, yet even then doth <hi>Daniel give himſelf up to faſting and prayer:</hi> And about that time, Interpreters do conceive,
+<note place="margin">Dan. 9.1, 2.</note> either <hi>Daniel him<g ref="char:EOLhyphen"/>ſelf,</hi> or ſome other of the <hi>Prophets,</hi> did in the behalf of the Church pen the 102. Pſalme, as <hi>a modell</hi> upon which the peo<g ref="char:EOLhyphen"/>ple of God in captivity ſhould forme their prayers, that <hi>God would ariſe and have mercy upon Sion;</hi> The whole Pſalme is nothing elſe but a Bedroll of <hi>Arguments</hi> wherewith thoſe chil<g ref="char:EOLhyphen"/>dren of <hi>Jacob</hi> ſhould wreſtle with God for the accompliſh<g ref="char:EOLhyphen"/>ment of that great <hi>expiring promiſe;</hi> and ſo the Spouſe in the Revelations, the <hi>neerer</hi> her <hi>Bridegroome</hi> was,
+<note place="margin">Revel. 22.20.</note> the <hi>more pathetically</hi> ſhe importunes his <hi>coming, I come quickly</hi> ſayes the Bride<g ref="char:EOLhyphen"/>groome; yea and to put it out of doubt, he ſets his <hi>ſeal</hi> to it, <hi>ſurely</hi> I come quickly: Yet not content with this, the Spouſe ecchoe's this <hi>promiſe</hi> back again with the voice of an holy reſtleſſe impatience of any delay,
+<note place="margin">Verſ. 21.</note> 
+                  <hi>Even ſo come Lord Jeſus.</hi> And it is no more then is commanded all beleevers; <hi>Looking for, and haſtening to the coming of the day of God,</hi>
+                  <note place="margin">2 Pet. 3.12. <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, &amp;c. <hi>properantes ad<g ref="char:EOLhyphen"/>ventum.</hi> Iſa 62.8, 9.</note> the <hi>Greeke</hi> reads it, haſtening the coming, &amp;c. Let us learn this holy impatience &amp; importunity, in haſtning the coming of this <hi>day of God,</hi> for <hi>Englands full,</hi> and <hi>perfect Deliverance</hi> and <hi>Reformation;</hi> You that are the Lords remembrances, ariſe and <hi>give the Lord no reſt till he eſtabliſh</hi> and <hi>make</hi> this our <hi>Jeruſalem a praiſe in the midſt of the earth.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>This ſhould have been the firſt branch of the Sixth Doctrine. <hi>Let God Ariſe.</hi>
+               </p>
+               <p>Let us make it our daily <hi>vſe.</hi> The Text gives you; <hi>Motives. ſc:</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>Firſt,</hi> That Generation againſt which we pray, are not
+<pb n="48" facs="tcp:156220:30"/>onely <hi>our Enemies,</hi> but <hi>Gods too, His Enemies,</hi> Them <hi>that hate him.</hi>
+                  </item>
+                  <item>
+                     <hi>Secondly,</hi> They are alreadie <hi>Doom'd</hi> and <hi>Damned</hi> to deſtruction; <hi>They ſhall be ſcattered; They ſhall flie, They ſhall be driven away; They ſhall melt, They ſhall periſh.</hi>
+                  </item>
+                  <item>
+                     <hi>Thirdly,</hi> All this may be eaſily done; it is but God <hi>Riſing,</hi> there needs no more but Gods, <hi>appearance,</hi> let God but ſhew himſelf in the field, and they are all but dead men.</item>
+               </list>
+               <p>With theſe arguments ſtrengthen your <hi>weak hands</hi> and <hi>feeble knees,</hi> to wreſtle with God, as Marriners, the neerer the <hi>Ancor</hi> comes into the ſhip the <hi>harder they pull,</hi> the <hi>lowder they cry;</hi> So do ye with the <hi>Anchor</hi> of <hi>Hope,</hi> now drawing neer, &amp;c.</p>
+               <p>There is certainly <hi>a ſpirit of Propheſic,</hi> ſtirring in theſe times, and <hi>labouring</hi> to the <hi>birth;</hi> Oh now if the <hi>Spirit</hi> of prayer come in to the <hi>Travell</hi> and beſtir it ſelf mightily, I am humbly con<g ref="char:EOLhyphen"/>fident it will not be long ere the <hi>Church of God</hi> in theſe King<g ref="char:EOLhyphen"/>domes, be delivered of a <hi>Man-childe, the birth whereof,</hi> will make us <hi>forget all our labour and ſorrow.</hi>
+               </p>
+               <p>
+                  <hi>Tenthly,</hi> Interim let us <hi>Riſe in our Praiſe and thanks-givings.</hi>
+               </p>
+               <p>
+                  <hi>God is Riſen,</hi> and hath done great things for us already, where<g ref="char:EOLhyphen"/>of were glad; and for which we have great cauſe to <hi>Riſe in our Thankfulneſſe.</hi>
+               </p>
+               <p>This alſo is a duty in the Text, the words being ſpoken by way of <hi>praiſe</hi> as well as of <hi>prayer.</hi> The whole pſalme is no<g ref="char:EOLhyphen"/>thing elſe but a <hi>Triumph</hi> for the bringing home of the <hi>Arke</hi> and the ſetting of it up in his place, as alſo for the celebration of thoſe many <hi>victories</hi> and <hi>Salvations</hi> which God had vouchſa<g ref="char:EOLhyphen"/>fed the Church under <hi>Davids</hi> Government: And ſo this ſhould have been a ſecond branch, in the Seventh <hi>Doctrine,</hi> in the Text, but let us make it up into an <hi>
+                     <g ref="char:V">Ʋ</g>ſe;</hi> and the Lord make us yet more <hi>cordiall</hi> and <hi>skilfull</hi> in this heavenly Angelicall dutie. He hath <hi>exalted us,</hi> let us <hi>exalt him,</hi> it was <hi>Davids</hi> reſolution, <hi>I will extoll thee O God for thou haſt lifted me up, &amp;c.</hi>
+               </p>
+               <q>Let us cloath our ſelves with the ſame reſolution; And, <hi>Let us exalt God.</hi> And that,</q>
+               <p>Firſt, <hi>In our thoughts;</hi> Get <hi>great,</hi> and <hi>good,</hi> and <hi>high</hi> thoughts
+<pb n="49" facs="tcp:156220:30"/>of God, let us be taken up in the admiration of his Wiſe<g ref="char:EOLhyphen"/>dome, Power, Faithfulneſſe, and All-ſufficiency, &amp;c. God is <hi>awak't out of ſleep, like a mighty man refreſh't with wine;</hi>
+                  <note place="margin">Pſa. 103.1. vlt.</note> Let us awaken and call up all within us to praiſe the Lord; our <hi>memoris</hi> to <hi>recount</hi> the worthy acts of the Lord; our <hi>underſta-dings</hi> to <hi>conſider</hi> them; Let us do with Deliverances as you do with your Watches, take them in pieces, and view the ſeverall materials and contrivances of them: Let us call up our <hi>wills</hi> to <hi>praiſe</hi> God; <hi>I will praiſe thee, O my God;</hi> our <hi>affections</hi> to <hi>ſolace</hi> them in the <hi>contemplation</hi> of the won<g ref="char:EOLhyphen"/>ders of mercy done for us: Oh that we could <hi>Work our hearts</hi> ſo into the thoughts of <hi>God</hi> and his <hi>Workes,</hi> that we could ſay with <hi>David. How precious are thy thoughts to me, O God?
+<note place="margin">Pſal 139.17, 19</note> How great is the ſumme of them, they are more in number then the ſand, when I awake I am ſtill with thee.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> Let us <hi>exalt him in our mouthes;
+<note place="margin">Pſal. 66.17.</note> I cryed to him with my mouth and hee was extolled with my tongue;</hi> If we have <hi>cried</hi> to him with our <hi>mouthes,</hi> and he hath heard, and an<g ref="char:EOLhyphen"/>ſwered, it is but our duty we ſhould <hi>extoll him with our tongve:</hi> and we may ſay ſo; <hi>Wee have called, and hee hath anſwered; We have cried, and he hath ſaid, here I am.</hi> Yea behold, while this day wee have been preſenting our ſup<g ref="char:EOLhyphen"/>plications unto him he hath ſent in a <hi>ſpeedy</hi> and a <hi>rich</hi> re<g ref="char:EOLhyphen"/>turn of prayer, in vouchſafing a wonderfull and ſtupendious <hi>Deliverance</hi> and <hi>Victorie,</hi> to our <hi>Noble Gencrall,</hi> and the <hi>Forces</hi> with him yonder at <hi>Edge-Hill,</hi> the certainty and ſome prticulars whereof at this inſtant God hath ſent me hi<g ref="char:EOLhyphen"/>ther, by an
+<note n="*" place="margin">At this mo<g ref="char:EOLhyphen"/>ment the <hi>Lord Wharton,</hi> ſent up to me in the pulpit the firſt rela<g ref="char:EOLhyphen"/>tion of the victory at Edge Hill which then I read, to the great ſatiſ<g ref="char:EOLhyphen"/>faction and admiration of the whole Congregation; abundance of teares being ſhed for joy. Pſal. 65.5.</note> 
+                  <hi>Honourable hand:</hi> God herein having done him<g ref="char:EOLhyphen"/>ſelf, and us that honour that he did to <hi>Danicl,</hi> Dan. 9.23. <hi>At the beginning of thy ſupplication the command came forth.</hi> Yea before we were <hi>preparing our prayers,</hi> God hath been <hi>preparing an anſwer,</hi> full of <hi>wonder and mercy. By terrible things in Righteouſneſſe haſt thou anſwered us, O God of our ſalva<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p>Chriſtians, God you ſee is Riſen he hath ſtirr'd <hi>up his glory,</hi> let us <hi>awake</hi> our <hi>Glory,</hi> our <hi>tongus</hi> to trumpet forth his prai<g ref="char:EOLhyphen"/>ſes. <hi>Awake my glory, awake Pſalterie and Harp, I my ſelf will awake right early;</hi> Behold God hath turnd our <hi>day of Hmili<g ref="char:EOLhyphen"/>ation,</hi>
+                  <pb n="50" facs="tcp:156220:31"/>into a <hi>day of Thanksgiving,</hi> and ſo hath fulfilled that pro<g ref="char:EOLhyphen"/>miſe,
+<note place="margin">Pſal. 125.6.</note> 
+                  <hi>They that ſow in tears, ſhall reap in joy, &amp;c.</hi> We that ſow<g ref="char:EOLhyphen"/>ed in tears, in the <hi>morning,</hi> do reap in joy in this our <hi>evening;</hi> A quick return: Shall not wee for this, go on with the <hi>Pſal<g ref="char:EOLhyphen"/>miſts</hi> reſolution;
+<note place="margin">Pſal. 57.9, 10, 11.</note> 
+                  <hi>I will praiſe thee, O Lord, among the people, I will ſing to thee among the nations: For thy mercy is great unto the heavens, and thy truth unto the cloudes: Bee thou exalted, O God, above the heavens, and thy glory above all the earth.</hi>
+               </p>
+               <p>O that the <hi>fathers</hi> would be telling their <hi>children,</hi> and one Chriſtian be making over the report unto another, of the righ<g ref="char:EOLhyphen"/>teous Acts of the Lord; Oh that to the <hi>perpetuating</hi> of the <hi>me<g ref="char:EOLhyphen"/>mory</hi> of Gods loving kindeneſſe, wee would all put our ſelves under the Prophet <hi>Iſaiahs Engagement;
+<note place="margin">Iſa. 63.7.</note> I will mention the lo<g ref="char:EOLhyphen"/>ving kindneſſe of the Lord, and the prayſes of the Lord, according to all that the Lord hath beſtowed on us, and the great goodneſſe to<g ref="char:EOLhyphen"/>wards the houſe of Iſrael, which hee hath beſtowed on them, accor<g ref="char:EOLhyphen"/>ding to his mercies, and according to the multitude of his loving kindneſſes.</hi>
+               </p>
+               <p>And again,
+<note place="margin">Pſal. 71.15.</note> that of the Pſalmiſt; <hi>My mouth ſhall ſhew forth thy righteouſneſſe, and holy ſalvation all the day, for I know not the numbers thereof.</hi>
+               </p>
+               <q>
+                  <hi>Rejoyce in the Lord,
+<note place="margin">Pſal. 33.1.</note> O ye righteous, for praiſe is comely for the upright, &amp;c.</hi>
+               </q>
+               <p>
+                  <hi>Thirdly,</hi> and laſtly, Let us <hi>exalt God in our lives.</hi> Take heed, I beſeech you, of <hi>honouring</hi> God in our <hi>duties,</hi> and <hi>diſhonouring</hi> of him in our <hi>converſations,</hi> of exalting of him with our <hi>tongues,</hi> and caſting him down in our <hi>lives:</hi> This were to imi<g ref="char:EOLhyphen"/>tate thoſe wretched <hi>Iews,</hi> who carried up our Saviour to the <hi>top of the Mountain,</hi> that they might throw him down the <hi>pra<g ref="char:EOLhyphen"/>cipice,</hi> and <hi>break his neck:</hi> Let not our <hi>lives</hi> give the <hi>lie</hi> to our <hi>duties.</hi> Walk becommingly to your mercies, and becomming<g ref="char:EOLhyphen"/>ly to your duties. Let an holy, ſweet, gracious, converſation be the <hi>Paraphraſe</hi> of our duties, and a <hi>Comment</hi> upon our dayes of Humiliation, and Thankſgiving: I will conclude with that earneſt <hi>obſecration,</hi> and obteſtation of the Apoſtle.</p>
+               <q>
+                  <hi>I beſeech you therefore brethren,
+<note place="margin">Rom. 12.1.</note> by the mercies of God, that you preſent your bodies a living ſacrifice, holy, accepta<g ref="char:EOLhyphen"/>ble unto God, which is your reaſonable ſervice.</hi>
+               </q>
+               <pb n="51" facs="tcp:156220:31"/>
+               <p>It is <hi>unreaſonable,</hi> as well as <hi>irreligious,</hi> to give <hi>God</hi> our <hi>mouthes,</hi> and <hi>ſinne</hi> our <hi>lives;</hi> to give the <hi>dead</hi> ſacrifice to <hi>God,</hi> and the <hi>living</hi> ſacrifice to the <hi>devill.</hi>
+               </p>
+               <p>God hath <hi>done all,</hi> let him <hi>have all;</hi> Our
+<list>
+                     <item>
+                        <hi>Hearts,</hi>
+                     </item>
+                     <item>
+                        <hi>Mouthes,</hi>
+                     </item>
+                     <item>
+                        <hi>Lives.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>When God <hi>doth</hi> great things <hi>for us,</hi> hee <hi>expects</hi> great things <hi>from us,</hi> and if wee labour not to anſwer his expectations wee are undone. <hi>Conſider what I ſay,
+<note place="margin">2 Tim 2.7.</note> and the Lord give you a right underſtanding in all things.</hi> Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="calendar_of_sermons">
+            <pb facs="tcp:156220:32"/>
+            <pb facs="tcp:156220:32"/>
+            <list>
+               <item>
+                  <hi>November</hi> 17. 1640 Doctor Burgeſſe, Jer. 50.5.</item>
+               <item>
+                  <hi>November</hi> 17. 1640 Maſter Marſhall, 2 Chron. 15.2.</item>
+            </list>
+            <list>
+               <head>Before the recieving of the Sacrament.</head>
+               <item>
+                  <hi>Novemb.</hi> 29. — Mr. Gauden, Zach. 8.19.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>At the thanksgiving of the <g ref="char:V">Ʋ</g>nion, betwixt</hi> England <hi>and</hi> Scotland.</head>
+               <item>
+                  <hi>September</hi> 7. 1641 Mr. Marſhall, Pſal. 124.6, 7, 8.</item>
+               <item>
+                  <hi>September</hi> 7. 1641 Mr. Burroughs, Iſai. 66.10.</item>
+               <item>
+                  <hi>November.</hi> 5. Dr. Burgeſſe, Pſal. 76.10.</item>
+               <item>
+                  <hi>Decemb.</hi> 22. 1641 Mr. Calamy, Jerem. 18.7, 8.</item>
+               <item>
+                  <hi>Decemb.</hi> 22. 1641 Mr. Marſhall, 2 Kings 23.25, 26.</item>
+               <item>
+                  <hi>February</hi> 23. 1641 Mr. Calamy, Ezek, 36.32.</item>
+               <item>
+                  <hi>February</hi> 23. 1641 Mr. Marſhall Judg. 5.23.</item>
+               <item>
+                  <hi>March</hi> 30. 1642 Dr. Burgeſſe, <hi>not Printed,</hi> Jerem. 4.14.</item>
+               <item>
+                  <hi>March</hi> 30. 1642 Mr. Aſh, Pſalm 9.9.</item>
+               <item>
+                  <hi>Aprill</hi> 27. 1642 Mr. Thomas Goodwyn, Zach. 4.6, 7, 8.</item>
+               <item>
+                  <hi>Aprill</hi> 27. 1642 Mr. Carryll, Revel. 2.2, 3.</item>
+               <item>
+                  <hi>May</hi> 25. 1642 Mr. Harris, Luke 18.6, 7, 8.</item>
+               <item>
+                  <hi>May</hi> 25. 1642 Mr. Ob. Sedgwich, Jerem. 4.3.</item>
+               <item>
+                  <hi>June</hi> 29. 1642 Dr. Gouge, Nehem. 5.19.</item>
+               <item>
+                  <hi>June</hi> 29. 1642 Mr. William Sedgwich. Iſaiah 62.7.</item>
+               <pb facs="tcp:156220:33"/>
+               <item>
+                  <hi>July</hi> 27. 1642. Mr. Reynolds, Hoſea 14.8.</item>
+               <item>
+                  <hi>July</hi> 27. 1642. Mr. Hill, Proverbs 23.23.</item>
+               <item>
+                  <hi>Auguſt</hi> 31. 1642 Dr. Downing, <hi>not Printed,</hi> 2 Theſ. 3.2.</item>
+               <item>
+                  <hi>Auguſt</hi> 31. 1642 Mr. Carter, Judges 20.26, 27, 28.</item>
+               <item>
+                  <hi>Septemb.</hi> 28. 1642. Mr. Hodges, Pſalm 113.5, 6.</item>
+               <item>
+                  <hi>Septemb.</hi> 28. 1642. Mr. Wilſon, Hebrews 11.30.</item>
+               <item>
+                  <hi>October</hi> 26. 1642. Dr. Temple, Pſalm 2.6.</item>
+               <item>
+                  <hi>October</hi> 26. 1642. Mr. Caſe, Pſalm 68.1.</item>
+               <item>
+                  <hi>Novemb.</hi> 5. M. Newcomen, Nehem. 4.11.</item>
+               <item>
+                  <hi>Novemb.</hi> 28. 1642 Mr. Herle, Zachary 8.19.</item>
+               <item>
+                  <hi>Novemb.</hi> 28. 1642 Mr. Vines, Numb. 14.24.</item>
+               <item>
+                  <hi>Decemb.</hi> 28. 1642 Mr. Valentine, Zepha. 3.8.</item>
+               <item>
+                  <hi>Decemb.</hi> 28. 1642 Mr. Corbet, 1. Corinthians 1.27.</item>
+               <item>
+                  <hi>Ianuary</hi> 25. 1642. Mr. Arrowſmith, Leviticus 26.25.</item>
+               <item>
+                  <hi>Ianuary</hi> 25. 1642. Mr. Whittaker, Haggai 2.7.</item>
+               <item>
+                  <hi>February</hi> 22. 1642. Mr. Bridges, 2 Sam. 19 5, 6, 7, 8.</item>
+               <item>
+                  <hi>February</hi> 22. 1642. Mr. Ellis, Micah 5.5.</item>
+               <item>
+                  <hi>March</hi> 29. 1643 Mr. Gibons, <hi>not Printed,</hi>
+               </item>
+               <item>
+                  <hi>March</hi> 29. 1643 Mr. Lightfoot, Luke 1.14.</item>
+               <item>
+                  <hi>April</hi> 26. 1643 Mr. Ley, Ieremy 4.21.22.</item>
+               <item>
+                  <hi>April</hi> 26. 1643 Mr. Greenhill, Matthew 3.10.</item>
+               <item>
+                  <hi>May</hi> 31. 1643 Mr. Perne, Micah. 4.5.</item>
+               <item>
+                  <hi>May</hi> 31. 1643 Mr. Cheinell, Zachary 2.7.</item>
+            </list>
+            <pb facs="tcp:156220:33"/>
+            <p>Thankſgiving Sermons, for the diſcovery of a dangerous, and bloody Deſigne, tending to the utter ſubverſion of the Parlia<g ref="char:EOLhyphen"/>ment and the Famous City of <hi>London.</hi>
+            </p>
+            <list>
+               <head>Before the Lords.</head>
+               <item>
+                  <hi>Iune</hi> 15. 1643 Mr. Calamy, Ioſhua 24.15.</item>
+               <item>
+                  <hi>Iune</hi> 15. 1643 Mr. Herle, Pſalm. 95.1.</item>
+            </list>
+            <list>
+               <head>Before the Commons.</head>
+               <item>
+                  <hi>Iune</hi> 15. 1643 Mr. Marſhall, Revelation 15.2, 3, 4.</item>
+               <item>
+                  <hi>Iune</hi> 15. 1643 Mr. Obadiah Sedgwick, Eſter 9.1.</item>
+               <item>
+                  <hi>Iune</hi> 28. 1643 Mr. Carter, Exodus 32.9, 10.</item>
+               <item>
+                  <hi>Iune</hi> 28. 1643 Mr. Palmer, Eſther. 4.13, 14.</item>
+            </list>
+            <list>
+               <head>At a Faſt before both Houſes, and the Aſſembly of Divines.</head>
+               <item>
+                  <hi>Iuly</hi> 7. 1644 Mr. Bowles, <hi>Iohn.</hi> 2.7.</item>
+               <item>
+                  <hi>Iuly</hi> 7. 1644 Mr. Newcomen, Iſaiah 62.67.</item>
+            </list>
+            <list>
+               <head>At an extraordinary Faſt.</head>
+               <item>
+                  <hi>Iuly</hi> 21. 1643 Mr. Hill, Revelation 12.11.</item>
+               <item>
+                  <hi>Iuly</hi> 21. 1643 Mr. Spurſtow, 1 Samuel 7.6.</item>
+               <item>
+                  <hi>Iuly</hi> 21. 1643 Mr. Vines <hi>not Printed.</hi>
+               </item>
+               <item>
+                  <hi>Iuly</hi> 26. 1643 Mr. Conant, Jer. 30.7.</item>
+               <item>
+                  <hi>Iuly</hi> 26. 1643 Mr. Sympſon, Iſaiah 4.5.</item>
+               <item>
+                  <hi>Auguſt</hi> 30 1643 Mr. Tuckney, Jerem. 8.22.</item>
+               <item>
+                  <hi>Auguſt</hi> 30 1643 Mr. Coleman, Jerem. 8.20.</item>
+               <item>
+                  <hi>September</hi> 27 1643 Mr. Chambers, Zach. 7.5, 6.</item>
+               <item>
+                  <hi>September</hi> 27 1643 Mr. Anthony Burges, Mark 1.2, 3.</item>
+            </list>
+            <list>
+               <head>At the taking of the Covenant of the three Kingdomes.</head>
+               <item>
+                  <hi>September,</hi> 29. Mr. Coleman, Jer. 30.21.</item>
+               <item>
+                  <hi>October,</hi> 6. Mr. Carill, Nehem. 9.38.</item>
+               <item>
+                  <hi>October</hi> 25. 1643 Mr. Wilkinſon, Zach. 1.18, 19, 20, 21.</item>
+               <item>
+                  <hi>October</hi> 25. 1643 Mr. Salwey, 1 King. 18.21.</item>
+               <pb facs="tcp:156220:34"/>
+               <item>
+                  <hi>Novemb.</hi> 29. 1643 Mr. Mew, Iſaiah 42.24, 25.</item>
+               <item>
+                  <hi>Novemb.</hi> 29. 1643 Mr. Bridge, Zach. 1.18, 19, 30, 21. and Chap. 2.1.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>At the Funerall of Mr.</hi> Pym.</head>
+               <item>
+                  <hi>December,</hi> 15. Mr. Marſhall, Mich. 7.1, 2.</item>
+               <item>
+                  <hi>Decemb.</hi> 27, 1643 Mr. Henderſon, Ezra 7.23.</item>
+               <item>
+                  <hi>Decemb.</hi> 27, 1643 Mr. Strickland, Iſaiah 10.12.</item>
+               <item>
+                  <hi>January</hi> 31, 1643 Mr. Cawdrey, Prov. 29.8.</item>
+               <item>
+                  <hi>January</hi> 31, 1643 Mr. Rutherfurd, Dan. 6.26.</item>
+               <item>
+                  <hi>February</hi> 28. 1643 Mr. Baylie, Zach. 3.1, 2.</item>
+               <item>
+                  <hi>February</hi> 28. 1643 Mr. Young, Pſal. 31.24.</item>
+               <item>
+                  <hi>March</hi> 27, 1644 Mr. Gilleſpie, Ezek. 43.11.</item>
+               <item>
+                  <hi>March</hi> 27, 1644 Mr. Bond, Iſaiah 45.15.</item>
+            </list>
+            <list>
+               <head>At the Thanksgiving, for the Victory given to our Forces, under Sir <hi>William Waller,</hi> and Sir <hi>William Balfore,</hi> over Sir <hi>Ralph Hoptons</hi> Army.</head>
+               <item>
+                  <hi>April.</hi> 9. 1644 Mr. Sedgwick, Pſalm. 3.8.</item>
+               <item>
+                  <hi>April.</hi> 9. 1644 Mr. Caſe Daniel. 11 32.</item>
+            </list>
+            <list>
+               <head>At the thankſgiving, for the Victory given to the forces un<g ref="char:EOLhyphen"/>der the Command of the Noble Lord <hi>Fairfax</hi> at <hi>Selby</hi> in <hi>Yorke Shire.</hi>
+               </head>
+               <item>
+                  <hi>Aprill</hi> 23. 1644 Mr. Perne, Exodus. 34.6.</item>
+               <item>
+                  <hi>Aprill</hi> 23. 1644 Mr. Carryl, Revelations 11.16, 17.</item>
+               <item>
+                  <hi>Aprill.</hi> 24. 1644. Dr. Staunton, Deut. 32.31.</item>
+               <item>
+                  <hi>Aprill.</hi> 24. 1644. Mr. Greene, Nehemiah. 1.3, 4.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
